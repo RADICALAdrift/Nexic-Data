@@ -16,7 +16,7 @@ The main content includes categorized JSON files, such as:
 
 Each JSON file defines a mapping of VTuber display names to their Twitch identifiers, and may include optional metadata (like tags or maturity rating) for future functionality.
 
-Example entry:
+Example entries:
 ```json
 "Kson": [
   {
@@ -26,3 +26,6 @@ Example entry:
     "mature": true
   }
 ]
+
+```json
+"Kson": [{"type": "twitch", "identifier": "ksonsouchou", "tags": ["mature", "variety"], "mature": true}]
