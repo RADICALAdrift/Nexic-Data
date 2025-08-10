@@ -6,7 +6,7 @@ This repository contains shared community-maintained data used by the Nexic Disc
 
 ## 📂 Current Structure
 
-The main content includes categorized JSON files, such as the ones in channel_maps/:
+The main content includes categorized JSON files, such as the ones in channel_maps/
 
 - `CHANNEL_MAP_TWITCH.json`
 - `CHANNEL_MAP_TWITCH_EX_VSHOJO_EN.json`
@@ -18,7 +18,10 @@ The main content includes categorized JSON files, such as the ones in channel_ma
 
 Each JSON file defines a mapping of VTuber display names to their Twitch identifiers and may include optional metadata (like tags or maturity rating) for future functionality.
 
-Example entries:
+Examples:
+```json
+"Kson": [{"type": "twitch", "identifier": "ksonsouchou", "tags": ["mature", "variety"], "mature": true}]
+```
 ```json
 "Kson": [
   {
@@ -29,5 +32,5 @@ Example entries:
   }
 ]
 ```
-```json
-"Kson": [{"type": "twitch", "identifier": "ksonsouchou", "tags": ["mature", "variety"], "mature": true}]
+
+The top example is preferred Thank you
