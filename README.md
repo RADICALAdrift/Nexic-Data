@@ -26,6 +26,6 @@ Example entries:
     "mature": true
   }
 ]
-
+```
 ```json
 "Kson": [{"type": "twitch", "identifier": "ksonsouchou", "tags": ["mature", "variety"], "mature": true}]
