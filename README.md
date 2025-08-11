@@ -8,12 +8,12 @@ This repository contains shared community-maintained data used by the Nexic Disc
 
 The main content includes categorized JSON files, such as the ones in channel_maps/
 
-- `CHANNEL_MAP_TWITCH.json`
-- `CHANNEL_MAP_TWITCH_EX_VSHOJO_EN.json`
-- `CHANNEL_MAP_TWITCH_EX_VSHOJO_JP.json`
-- `CHANNEL_MAP_TWITCH_EX_VSHOJO_JP_NOVA.json`
-- `CHANNEL_MAP_TWITCH_INDIE.json`
-- `CHANNEL_MAP_TWITCH_VCHIBAN.json`
+- `twitch.json`
+- `twitch_ex_vshojo_en.json`
+- `twitch_ex_vshojo_jp.json`
+- `twitch_ex_vshojo_jp_nova.json`
+- `twitch_indie.json`
+- `twitch_vchiban.json`
 - More categories may be added over time...
 
 Each JSON file defines a mapping of VTuber display names to their Twitch identifiers and may include optional metadata (like tags or maturity rating) for future functionality.
