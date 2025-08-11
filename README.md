@@ -11,7 +11,6 @@ The main content includes categorized JSON files, such as the ones in channel_ma
 - `twitch.json`
 - `twitch_ex_vshojo_en.json`
 - `twitch_ex_vshojo_jp.json`
-- `twitch_ex_vshojo_jp_nova.json`
 - `twitch_indie.json`
 - `twitch_vchiban.json`
 - More categories may be added over time...
