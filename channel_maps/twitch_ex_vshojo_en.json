@@ -7,7 +7,10 @@
   "Ironmouse": [{"type": "twitch", "identifier": "ironmouse"}],
   "K9KURO": [{"type": "twitch", "identifier": "k9kuro"}],
   "Matara Kan": [{"type": "twitch", "identifier": "matarakan"}],
-  "Michi Mochievee": [{"type": "twitch", "identifier": "michimochievee"}], 
+  "Michi Mochievee": [{"type": "twitch", "identifier": "michimochievee"}],
+  "Nyanners": [{"type": "twitch", "identifier": "nyanners"}],
   "Projekt Melody": [{"type": "twitch", "identifier": "projektmelody"}],
+  "Silvervale": [{"type": "twitch", "identifier": "silvervale"}],
+  "Veibae": [{"type": "twitch", "identifier": "vei"}],
   "Zentreya": [{"type": "twitch", "identifier": "zentreya"}]
 }
