@@ -1,8 +1,8 @@
 {
-  "Henya the Genius": [{"type": "twitch", "identifier": "henyathegenius"}],
-  "Kson": [{"type": "twitch", "identifier": "ksonsouchou"}],
   "Akatsuki Hotaru": [{"type": "twitch", "identifier": "akatsukidhotaru"}],
+  "Henya the Genius": [{"type": "twitch", "identifier": "henyathegenius"}],
   "Hestia Happiness": [{"type": "twitch", "identifier": "hestiahappiness"}],
+  "Kson": [{"type": "twitch", "identifier": "ksonsouchou"}],
   "Okamoto Nagi": [{"type": "twitch", "identifier": "nagisekaied"}],
   "Yutori Peke": [{"type": "twitch", "identifier": "pekeispeak"}]
 }
