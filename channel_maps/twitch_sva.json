@@ -1,7 +1,7 @@
 {
   "AdfreeVT": [{"type": "twitch", "identifier": "adfreevt"}],
-  "Alien Mixture": [{"type": "twitch", "identifier": "alienmixture"}],
-  "Camizole Corzette": [{"type": "twitch", "identifier": "camizolecorzette"}],
+  "AlienMixture": [{"type": "twitch", "identifier": "alienmixture"}],
+  "CamizoleCorzette": [{"type": "twitch", "identifier": "camizolecorzette"}],
   "MalfinaVT": [{"type": "twitch", "identifier": "malfinavt"}],
   "Sclimbo": [{"type": "twitch", "identifier": "vtubermale"}],
   "Snoozy": [{"type": "twitch", "identifier": "snoozy"}],
