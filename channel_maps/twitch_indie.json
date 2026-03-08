@@ -1,5 +1,6 @@
 {
   "Arielle": [{"type": "twitch", "identifier": "arielle"}],
+  "August_Anomaly": [{"type": "twitch", "identifier": "august_anomaly"}],
   "Auteru": [{"type": "twitch", "identifier": "auteru"}],
   "BananaJuju": [{"type": "twitch", "identifier": "bananajuju"}],
   "Bao": [{"type": "twitch", "identifier": "bao"}],
@@ -27,7 +28,9 @@
   "HeavenlyFather": [{"type": "twitch", "identifier": "heavenlyfather"}],
   "JuniperActias": [{"type": "twitch", "identifier": "juniperactias"}],
   "KanekoLumi": [{"type": "twitch", "identifier": "kanekolumi"}],
+  "KloeKroc": [{"type": "twitch", "identifier": "kloekroc"}],
   "KokoNuts": [{"type": "twitch", "identifier": "kokonuts"}],
+  "Kumi": [{"type": "twitch", "identifier": "kumi"}],
   "LaynaLazar": [{"type": "twitch", "identifier": "laynalazar"}],
   "Limealicious": [{"type": "twitch", "identifier": "limealicious"}],
   "LucyPyre": [{"type": "twitch", "identifier": "lucypyre"}],
@@ -67,5 +70,6 @@
   "Vexoria The Sun Eater": [{"type": "twitch", "identifier": "vexoria_the_suneater"}],
   "Vulpixie": [{"type": "twitch", "identifier": "vulpixie"}],
   "Yoclesh": [{"type": "twitch", "identifier": "yoclesh"}],
+  "YokaSiri": [{"type": "twitch", "identifier": "yokasiri"}],
   "ZombieCleo": [{"type": "twitch", "identifier": "zombiecleo"}]
 }
