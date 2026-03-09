@@ -8,7 +8,6 @@ This repository contains shared community-maintained data used by the Nexic Disc
 
 The main content includes categorized JSON files, such as the ones in channel_maps/
 
-- `twitch.json`
 - `twitch_beastiez.json`
 - `twitch_ex_vshojo_en.json`
 - `twitch_ex_vshojo_jp.json`
