@@ -31,6 +31,7 @@
   "Giwi": [{"type": "twitch", "identifier": "giwi"}],
   "GX_Aura": [{"type": "twitch", "identifier": "gx_aura"}],
   "HeavenlyFather": [{"type": "twitch", "identifier": "heavenlyfather"}],
+  "Isaa (E-sa)": [{"type": "twitch", "identifier": "isaa"}],
   "JuniperActias": [{"type": "twitch", "identifier": "juniperactias"}],
   "KanekoLumi": [{"type": "twitch", "identifier": "kanekolumi"}],
   "KloeKroc": [{"type": "twitch", "identifier": "kloekroc"}],
@@ -89,5 +90,6 @@
   "x3Dustco": [{"type": "twitch", "identifier": "x3dustco"}],
   "Yoclesh": [{"type": "twitch", "identifier": "yoclesh"}],
   "YokaSiri": [{"type": "twitch", "identifier": "yokasiri"}],
+  "Yuzu": [{"type": "twitch", "identifier": "yuzu"}],
   "ZombieCleo": [{"type": "twitch", "identifier": "zombiecleo"}]
 }
