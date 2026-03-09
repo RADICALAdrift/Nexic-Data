@@ -55,7 +55,6 @@
   "Numi (Nihmune)": [{"type": "twitch", "identifier": "nihmune"}],
   "ObKatieKat": [{"type": "twitch", "identifier": "obkatiekat"}],
   "OniGiri": [{"type": "twitch", "identifier": "onigiri"}],
-  "Papamutt": [{"type": "twitch", "identifier": "papamutt"}],
   "PastaroniRavioli": [{"type": "twitch", "identifier": "pastaroniravioli"}],
   "Pippa": [{"type": "twitch", "identifier": "pippa"}],
   "PorcelainMaid (Jowol)": [{"type": "twitch", "identifier": "porcelainmaid"}],
@@ -65,7 +64,7 @@
   "Radiaactive": [{"type": "twitch", "identifier": "radiaactive"}],
   "Rainhoe": [{"type": "twitch", "identifier": "rainhoe"}],
   "RegaliaRoseVT": [{"type": "twitch", "identifier": "regaliarosevt"}],
-  "reycallsounds": [{"type": "twitch", "identifier": "reycallsounds"}],
+  "Reycall": [{"type": "twitch", "identifier": "reycallsounds"}],
   "RinPenrose": [{"type": "twitch", "identifier": "rinpenrose"}],
   "Saiiren": [{"type": "twitch", "identifier": "saiiren"}],
   "Saruei": [{"type": "twitch", "identifier": "saruei"}],
@@ -93,5 +92,4 @@
   "Yoclesh": [{"type": "twitch", "identifier": "yoclesh"}],
   "YokaSiri": [{"type": "twitch", "identifier": "yokasiri"}],
   "Yuzu": [{"type": "twitch", "identifier": "yuzu"}],
-  "ZombieCleo": [{"type": "twitch", "identifier": "zombiecleo"}]
 }
