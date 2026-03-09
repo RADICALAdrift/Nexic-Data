@@ -12,7 +12,7 @@ The main content includes categorized JSON files, such as the ones in channel_ma
 - `twitch_beastiez.json`
 - `twitch_ex_vshojo_en.json`
 - `twitch_ex_vshojo_jp.json`
-- `twitch_fleshtuber.json` - A joke inside the VTubing community for many streamers who collab with VTubers
+- `twitch_fleshtuber.json` - Regular Twitch streamers (a joking term used in the VTuber community for non-VTuber creators)
 - `twitch_indie.json`
 - `twitch_phase_connect.json`
 - `twitch_sva.json`
