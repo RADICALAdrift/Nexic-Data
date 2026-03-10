@@ -24,7 +24,7 @@ Examples:
 ```json
   "Aethelstan": [{"type": "twitch", "identifier": "aethelstan"}],
   "BananaJuju": [{"type": "twitch", "identifier": "bananajuju"}],
-  "Camila": [{"type": "twitch", "identifier": "camila"}],
+  "Camila": [{"type": "twitch", "identifier": "camila"}]
 ```
 ```json
 "Aethelstan": [
