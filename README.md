@@ -12,6 +12,8 @@ The repository currently includes categorized JSON files located in `channel_map
 
 Examples include:
 
+- `twitch.json`  
+  *(Nexus Assault Specific Streamers file)*
 - `twitch_beastiez.json`
 - `twitch_ex_vshojo_en.json`
 - `twitch_ex_vshojo_jp.json`
@@ -33,10 +35,10 @@ Each JSON file maps a creator's **display name** to their Twitch login identifie
 Example:
 
 ```json
-"RADICALAdrift": {
-"nickname": "RADICAL", "former_agency": "", "former_identity": "",
+"LordAethelstan": {
+"nickname": "Aethel", "former_agency": "", "former_identity": "",
 "platforms": [
-  {"identifier": "radicaladrift", "type": "twitch"}
+  {"identifier": "lordaethelstan", "type": "twitch"}
 ]}
 ```
 
@@ -49,18 +51,18 @@ Some entries may include optional metadata.
 Example with and without nickname support:
 
 ```json
-"RADICALAdrift": {
-"nickname": "RADICAL", "former_agency": "", "former_identity": "",
+"LordAethelstan": {
+"nickname": "Aethel", "former_agency": "", "former_identity": "",
 "platforms": [
-  {"identifier": "radicaladrift", "type": "twitch"}
+  {"identifier": "lordaethelstan", "type": "twitch"}
 ]}
 ```
 
 ```json
-"RADICALAdrift": {
+"LordAethelstan": {
 "former_agency": "", "former_identity": "",
 "platforms": [
-  {"identifier": "radicaladrift", "type": "twitch"}
+  {"identifier": "lordaethelstan", "type": "twitch"}
 ]}
 ```
 
