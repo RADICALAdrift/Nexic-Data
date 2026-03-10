@@ -49,13 +49,7 @@ Some entries may include optional metadata.
 Example with nickname support:
 
 ```json
-"ChonkyLotus": [
-  {
-    "type": "twitch",
-    "identifier": "chonkylotus",
-    "nickname": "Chonky"
-  }
-]
+"ChonkyLotus": [{"type": "twitch", "identifier": "chonkylotus", "nickname": "Chonky"}]
 ```
 
 If a nickname is present, the bot may use it when generating live notifications.
