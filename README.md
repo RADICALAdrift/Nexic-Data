@@ -33,21 +33,7 @@ Examples:
     "identifier": "aethelstan",
     "nickname": "Aethel"}],
   }
-],
-"BananaJuju": [
-  {
-    "type": "twitch",
-    "identifier": "bananajuju",
-    "nickname": "Juju"}],
-  }
-],
-"Camila": [
-  {
-    "type": "twitch",
-    "identifier": "camila"
-  }
-],
-
+]
 ```
 
 The top example is preferred Thank you
