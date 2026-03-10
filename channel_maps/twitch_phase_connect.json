@@ -1,5 +1,6 @@
 {
-  "KanekoLumi": [{"type": "twitch", "identifier": "kanekolumi"}],
+  "KanekoLumi": [{"type": "twitch", "identifier": "kanekolumi", "nickname": "Lumi"}],
   "Pippa": [{"type": "twitch", "identifier": "pippa"}],
   "Tenma": [{"type": "twitch", "identifier": "tenma"}]
+
 }
