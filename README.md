@@ -36,9 +36,11 @@ Example:
 
 ```json
 "LordAethelstan": {
-"nickname": "Aethel", "former_agency": "", "former_identity": "",
+"nickname": "Aethel"
 "platforms": [
-  {"identifier": "lordaethelstan", "type": "twitch"}
+  {"identifier": "lordaethelstan", "type": "twitch"},
+  {"identifier": "LordAethelstan", "type": "twitter"},
+  {"identifier": "lordaethelstan69", "type": "youtube"}
 ]}
 ```
 
@@ -52,17 +54,20 @@ Example with and without nickname support:
 
 ```json
 "LordAethelstan": {
-"nickname": "Aethel", "former_agency": "", "former_identity": "",
+"nickname": "Aethel"
 "platforms": [
-  {"identifier": "lordaethelstan", "type": "twitch"}
+  {"identifier": "lordaethelstan", "type": "twitch"},
+  {"identifier": "LordAethelstan", "type": "twitter"},
+  {"identifier": "lordaethelstan69", "type": "youtube"}
 ]}
 ```
 
 ```json
 "LordAethelstan": {
-"former_agency": "", "former_identity": "",
 "platforms": [
   {"identifier": "lordaethelstan", "type": "twitch"}
+  {"identifier": "LordAethelstan", "type": "twitter"},
+  {"identifier": "lordaethelstan69", "type": "youtube"}
 ]}
 ```
 
