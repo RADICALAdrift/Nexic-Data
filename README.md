@@ -22,17 +22,32 @@ Each JSON file defines a mapping of VTuber display names to their Twitch identif
 
 Examples:
 ```json
-"Kson": [{"type": "twitch", "identifier": "ksonsouchou", "tags": ["mature", "variety"], "mature": true}]
+  "Aethelstan": [{"type": "twitch", "identifier": "aethelstan", "nickname": "Aethel"}],
+  "BananaJuju": [{"type": "twitch", "identifier": "bananajuju", "nickname": "Juju"}],
+  "Camila": [{"type": "twitch", "identifier": "camila"}],
 ```
 ```json
-"Kson": [
+"Aethelstan": [
   {
     "type": "twitch",
-    "identifier": "ksonsouchou",
-    "tags": ["mature", "variety"],
-    "mature": true
+    "identifier": "aethelstan",
+    "nickname": "Aethel"}],
   }
-]
+],
+"BananaJuju": [
+  {
+    "type": "twitch",
+    "identifier": "bananajuju",
+    "nickname": "Juju"}],
+  }
+],
+"Camila": [
+  {
+    "type": "twitch",
+    "identifier": "camila"
+  }
+],
+
 ```
 
 The top example is preferred Thank you
