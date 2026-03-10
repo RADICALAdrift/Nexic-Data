@@ -1,5 +1,6 @@
 {
-  "KanekoLumi": [{"type": "twitch", "identifier": "kanekolumi", "nickname": "Lumi"}],
+  "Kaneko Lumi": [{"type": "twitch", "identifier": "kanekolumi", "nickname": "Lumi"}],
   "Pipkin Pippa": [{"type": "twitch", "identifier": "pippa", "nickname": "Pippa"}],
   "Tenma Maemi": [{"type": "twitch", "identifier": "tenma", "nickname": "Tenma"}]
 }
+
