@@ -1,7 +1,8 @@
 {
-  "Connor (CDawg)": [{"type": "twitch", "identifier": "cdawg"}],
-  "Papamutt": [{"type": "twitch", "identifier": "papamutt"}],
-  "Pete (Peter)": [{"type": "twitch", "identifier": "peter"}],
-  "Ray": [{"type": "twitch", "identifier": "ray"}], 
-  "RubenSargasm": [{"type": "twitch", "identifier": "rubensargasm"}]
+  "CDawg": [{"type": "twitch", "identifier": "cdawg", "nickname": "Connor"}],
+  "Papamutt": [{"type": "twitch", "identifier": "papamutt", "nickname": "Papa"}],
+  "Peter": [{"type": "twitch", "identifier": "peter", "nickname": "Pete"}],
+  "RayNarvaezJr": [{"type": "twitch", "identifier": "ray", "nickname": "Ray"}], 
+  "RubenSargasm": [{"type": "twitch", "identifier": "rubensargasm", "nickname": "Ruben"}]
+
 }
