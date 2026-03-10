@@ -1,8 +1,44 @@
 {
-  "Akatsuki Hotaru": [{"type": "twitch", "identifier": "akatsukidhotaru", "nickname": "Hotaru"}],
-  "Henya the Genius": [{"type": "twitch", "identifier": "henyathegenius", "nickname": "Henya"}],
-  "Hestia Happiness": [{"type": "twitch", "identifier": "hestiahappiness", "nickname": "Hestia"}],
-  "Ksonsouchou": [{"type": "twitch", "identifier": "ksonsouchou", "nickname": "Kson"}],
-  "Okamoto Nagi": [{"type": "twitch", "identifier": "nagisekaied", "nickname": "Nagi"}],
-  "Yutori Peke": [{"type": "twitch", "identifier": "pekeispeak", "nickname": "Peke"}]
+  "Akatsuki Hotaru": {
+  "nickname": "Hotaru", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "akatsukidhotaru", "type": "twitch"},
+    {"identifier": "AkatsukiDHotaru", "type": "twitter"},
+    {"identifier": "AkatsukiDHotaru", "type": "youtube"}
+  ]},
+  "Henya the Genius": {
+  "nickname": "Henya", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "henyathegenius", "type": "twitch"},
+    {"identifier": "henyathegenius", "type": "twitter"},
+    {"identifier": "henyathegenius", "type": "youtube"}
+  ]},
+  "Hestia Happiness": {
+  "nickname": "Hestia", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "hestiahappiness", "type": "twitch"},
+    {"identifier": "HestiaHappiness", "type": "twitter"},
+    {"identifier": "HestiaHappiness", "type": "youtube"}
+  ]},
+  "Ksonsouchou": {
+  "nickname": "Souchou", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "ksonsouchou", "type": "twitch"},
+    {"identifier": "ksononair", "type": "twitter"},
+    {"identifier": "ksononair", "type": "youtube"}
+  ]},
+  "Okamoto Nagi": {
+  "nickname": "Nagi", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "nagisekaied", "type": "twitch"},
+    {"identifier": "NagIsekaied", "type": "twitter"},
+    {"identifier": "NagIsekaied", "type": "youtube"}
+  ]},
+  "Yutori Peke": {
+  "nickname": "Peke", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "pekeispeak", "type": "twitch"},
+    {"identifier": "PekeIsPeak", "type": "twitter"},
+    {"identifier": "PekeIsPeak", "type": "youtube"}
+  ]}
 }

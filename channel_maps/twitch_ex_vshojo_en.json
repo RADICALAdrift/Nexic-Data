@@ -1,16 +1,100 @@
 {
-  "Amalee": [{"type": "twitch", "identifier": "leeandlie", "nickname": "Ama"}],
-  "Apricot": [{"type": "twitch", "identifier": "apricot", "nickname": "Froot"}],
-  "GEEGA": [{"type": "twitch", "identifier": "geega", "nickname": "Gigi"}],
-  "Haruka Karibu": [{"type": "twitch", "identifier": "harukakaribu", "nickname": "Haru"}],
-  "Hime Hajime": [{"type": "twitch", "identifier": "hajime", "nickname": "Hime"}],
-  "Ironmouse": [{"type": "twitch", "identifier": "ironmouse", "nickname": "Mousey"}],
-  "K9KURO": [{"type": "twitch", "identifier": "k9kuro", "nickname": "Kuro"}],
-  "Matara Kan": [{"type": "twitch", "identifier": "matarakan", "nickname": "Mata"}],
-  "Michi Mochievee": [{"type": "twitch", "identifier": "michimochievee", "nickname": "Michi"}],
-  "Nyanners": [{"type": "twitch", "identifier": "nyanners", "nickname": "Nyan"}],
-  "Projekt Melody": [{"type": "twitch", "identifier": "projektmelody", "nickname": "Mel"}],
-  "Silvervale": [{"type": "twitch", "identifier": "silvervale", "nickname": "Silver"}],
-  "Veibae": [{"type": "twitch", "identifier": "vei", "nickname": "Vei"}],
-  "Zentreya": [{"type": "twitch", "identifier": "zentreya", "nickname": "Zen"}]
+  "Amalee": {
+  "nickname": "Monarch", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "amalee", "type": "twitch"},
+    {"identifier": "LeeandLie", "type": "twitter"},
+    {"identifier": "LeeandLie", "type": "youtube"}
+  ]},
+  "Apricot": {
+  "nickname": "Froot", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "apricot", "type": "twitch"},
+    {"identifier": "LichVtuber", "type": "twitter"},
+    {"identifier": "ApricottheLichVS", "type": "youtube"}
+  ]},
+  "GEEGA": {
+  "nickname": "Gigi", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "geega", "type": "twitch"},
+    {"identifier": "GeneralGEEGA", "type": "twitter"},
+    {"identifier": "GEEGA", "type": "youtube"}
+  ]},
+  "Haruka Karibu": {
+  "nickname": "Haru", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "harukakaribu", "type": "twitch"},
+    {"identifier": "haruka_karibu", "type": "twitter"},
+    {"identifier": "HarukaKaribu", "type": "youtube"}
+  ]},
+  "Hime Hajime": {
+  "nickname": "Hime", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "hajime", "type": "twitch"},
+    {"identifier": "HeemHajeem", "type": "twitter"},
+    {"identifier": "himehajime", "type": "youtube"}
+  ]},
+  "Ironmouse": {
+  "nickname": "Mousey", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "ironmouse", "type": "twitch"},
+    {"identifier": "ironmouse", "type": "twitter"},
+    {"identifier": "IronMouseParty", "type": "youtube"}
+  ]},
+  "K9Kuro": {
+  "nickname": "Kuro", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "k9kuro", "type": "twitch"},
+    {"identifier": "K9_KURO", "type": "twitter"},
+    {"identifier": "K9KURO", "type": "youtube"}
+  ]},
+  "Matara Kan": {
+  "nickname": "Mata", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "matarakan", "type": "twitch"},
+    {"identifier": "MataraKan", "type": "twitter"},
+    {"identifier": "MataraKan", "type": "youtube"}
+  ]},
+  "Michi Mochievee": {
+  "nickname": "Michi", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "michimochievee", "type": "twitch"},
+    {"identifier": "MichiMochievee", "type": "twitter"},
+    {"identifier": "MichiMochievee", "type": "youtube"}
+  ]},
+  "Nyatasha Nyanners": {
+  "nickname": "Nyan", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "nyanners", "type": "twitch"},
+    {"identifier": "NyanNyanners", "type": "twitter"},
+    {"identifier": "nyanners", "type": "youtube"}
+  ]},
+  "Projekt Melody": {
+  "nickname": "Mel", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "projektmelody", "type": "twitch"},
+    {"identifier": "ProjektMelody", "type": "twitter"},
+    {"identifier": "ProjektMelody", "type": "youtube"}
+  ]},
+  "Silvervale": {
+  "nickname": "Silver", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "silvervale", "type": "twitch"},
+    {"identifier": "silvervale", "type": "twitter"},
+    {"identifier": "Silvervale", "type": "youtube"}
+  ]},
+  "Veibae": {
+  "nickname": "Vei", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "vei", "type": "twitch"},
+    {"identifier": "Veibae", "type": "twitter"},
+    {"identifier": "Veibae", "type": "youtube"}
+  ]},
+  "Zentreya": {
+  "nickname": "Zen", "former_agency": "VShojo", "former_identity": "",
+  "platforms": [
+    {"identifier": "zentreya", "type": "twitch"},
+    {"identifier": "zentreya", "type": "twitter"},
+    {"identifier": "Zentreya", "type": "youtube"}
+  ]}
 }

@@ -1,9 +1,51 @@
 {
-  "AdfreeVT": [{"type": "twitch", "identifier": "adfreevt"}],
-  "Alien Mixture": [{"type": "twitch", "identifier": "alienmixture", "nickname": "Ali"}],
-  "Camizole Corzette": [{"type": "twitch", "identifier": "camizolecorzette", "nickname": "Cami"}],
-  "MalfinaVT": [{"type": "twitch", "identifier": "malfinavt", "nickname": "Malfi"}],
-  "Sclimbo": [{"type": "twitch", "identifier": "vtubermale"}],
-  "Snoozy": [{"type": "twitch", "identifier": "snoozy"}],
-  "YomiQuinnley": [{"type": "twitch", "identifier": "yomiquinnley", "nickname": "Yomi"}]
+  "AdfreeVT": {
+  "nickname": "Adfree.EXE", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "adfreevt", "type": "twitch"},
+    {"identifier": "AdfreeVT", "type": "twitter"},
+    {"identifier": "AdfreeVT", "type": "youtube"}
+  ]},
+  "Alien Mixture": {
+  "nickname": "Ali", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "alienmixture", "type": "twitch"},
+    {"identifier": "alien_mixture", "type": "twitter"},
+    {"identifier": "AlienMixture", "type": "youtube"}
+  ]},
+  "Camizole Corzette": {
+  "nickname": "Cami", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "CamizoleCorzette", "type": "twitch"},
+    {"identifier": "CamizoleVT", "type": "twitter"},
+    {"identifier": "CamizoleCorzette", "type": "youtube"}
+  ]},
+  "MalfinaVT": {
+  "nickname": "Malfie", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "malfinavt", "type": "twitch"},
+    {"identifier": "MalfinaVT", "type": "twitter"},
+    {"identifier": "MalfinaVT", "type": "youtube"}
+  ]},
+  "Sclimbo": {
+  "nickname": "Sclimbo", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "vtubermale", "type": "twitch"},
+    {"identifier": "vtubermale", "type": "twitter"},
+    {"identifier": "vtubermale", "type": "youtube"}
+  ]},
+  "Snoozy": {
+  "nickname": "Snoozychu", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "snoozy", "type": "twitch"},
+    {"identifier": "snoozychu", "type": "twitter"},
+    {"identifier": "snoozychu", "type": "youtube"}
+  ]},
+  "YomiQuinnley": {
+  "nickname": "Yomi", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "yomiquinnley", "type": "twitch"},
+    {"identifier": "YomiQuinnley", "type": "twitter"},
+    {"identifier": "yomiquinnley", "type": "youtube"}
+  ]}
 }

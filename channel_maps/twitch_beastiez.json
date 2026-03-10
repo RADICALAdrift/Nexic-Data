@@ -1,6 +1,30 @@
 {
-  "BeriBug": [{"type": "twitch", "identifier": "beribug"}],
-  "Kairyu Crocodile": [{"type": "twitch", "identifier": "kairyucrocodile"}],
-  "PiaPiUFO": [{"type": "twitch", "identifier": "piapiufo"}],
-  "ToriOriane": [{"type": "twitch", "identifier": "torioriane"}]
+  "BeriBug": {
+  "nickname": "Beri", "former_agency": "VShojo Lost Generation: The Monster Girls", "former_identity": "",
+  "platforms": [
+    {"identifier": "beribug", "type": "twitch"},
+    {"identifier": "beribug_", "type": "twitter"},
+    {"identifier": "beribug", "type": "youtube"}
+  ]},
+  "Kairyu Crocodile": {
+  "nickname": "Crockpot", "former_agency": "VShojo Lost Generation: The Monster Girls", "former_identity": "",
+  "platforms": [
+    {"identifier": "kairyucrocodile", "type": "twitch"},
+    {"identifier": "KairyuCrocodile", "type": "twitter"},
+    {"identifier": "KairyuCrocodile", "type": "youtube"}
+  ]},
+  "PiaPiUFO": {
+  "nickname": "Pia", "former_agency": "VShojo Lost Generation: The Monster Girls", "former_identity": "",
+  "platforms": [
+    {"identifier": "piapiufo", "type": "twitch"},
+    {"identifier": "PiaPiUFO", "type": "twitter"},
+    {"identifier": "PiaPiUFO", "type": "youtube"}
+  ]},
+  "ToriOriane": {
+  "nickname": "Tori", "former_agency": "VShojo Lost Generation: The Monster Girls", "former_identity": "",
+  "platforms": [
+    {"identifier": "torioriane", "type": "twitch"},
+    {"identifier": "ToriOriane", "type": "twitter"},
+    {"identifier": "ToriOriane", "type": "youtube"}
+  ]}
 }

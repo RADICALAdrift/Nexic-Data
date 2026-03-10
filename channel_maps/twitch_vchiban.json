@@ -1,6 +1,30 @@
 {
-  "AiCandii": [{"type": "twitch", "identifier": "aicandii", "nickname": "Candi"}],
-  "Buffpup": [{"type": "twitch", "identifier": "buffpup", "nickname": "Buff"}],
-  "Rosedoodle": [{"type": "twitch", "identifier": "rosedoodle", "nickname": "Rose"}],
-  "ShiaBun": [{"type": "twitch", "identifier": "shiabun", "nickname": "Shia"}]
+  "AiCandii": {
+  "nickname": "Candi", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "aicandii", "type": "twitch"},
+    {"identifier": "aicandii", "type": "twitter"},
+    {"identifier": "AICandii", "type": "youtube"}
+  ]},
+  "Buffpup": {
+  "nickname": "Buff", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "buffpup", "type": "twitch"},
+    {"identifier": "Buffpup_", "type": "twitter"},
+    {"identifier": "buffpup", "type": "youtube"}
+  ]},
+  "Rosedoodle": {
+  "nickname": "Rose", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "rosedoodle", "type": "twitch"},
+    {"identifier": "rosedoodles", "type": "twitter"},
+    {"identifier": "rosedoodle", "type": "youtube"}
+  ]},
+  "ShiaBun": {
+  "nickname": "Shia", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "shiabun", "type": "twitch"},
+    {"identifier": "ShiaBun", "type": "twitter"},
+    {"identifier": "ShiaBun", "type": "youtube"}
+  ]}
 }
