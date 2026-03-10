@@ -33,12 +33,12 @@ Each JSON file maps a creator's **display name** to their Twitch login identifie
 Example:
 
 ```json
-"Aethelstan": [{"type": "twitch", "identifier": "aethelstan"}],
-"BananaJuju": [{"type": "twitch", "identifier": "bananajuju"}],
-"Camila": [{"type": "twitch", "identifier": "camila"}]
+"RADICALAdrift": {
+"nickname": "RADICAL", "former_agency": "", "former_identity": "",
+"platforms": [
+  {"identifier": "radicaladrift", "type": "twitch"}
+]}
 ```
-
-This **single-line format is preferred** for readability and consistency.
 
 ---
 
@@ -46,10 +46,22 @@ This **single-line format is preferred** for readability and consistency.
 
 Some entries may include optional metadata.
 
-Example with nickname support:
+Example with and without nickname support:
 
 ```json
-"Demenishki": [{"type": "twitch", "identifier": "deme", "nickname": "Deme"}]
+"RADICALAdrift": {
+"nickname": "RADICAL", "former_agency": "", "former_identity": "",
+"platforms": [
+  {"identifier": "radicaladrift", "type": "twitch"}
+]}
+```
+
+```json
+"RADICALAdrift": {
+"former_agency": "", "former_identity": "",
+"platforms": [
+  {"identifier": "radicaladrift", "type": "twitch"}
+]}
 ```
 
 If a nickname is present, the bot may use it when generating live notifications.
