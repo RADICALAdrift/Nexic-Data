@@ -1,6 +1,6 @@
 {
-  "AiCandii": [{"type": "twitch", "identifier": "aicandii"}],
-  "Buffpup": [{"type": "twitch", "identifier": "buffpup"}],
-  "Rosedoodle": [{"type": "twitch", "identifier": "rosedoodle"}],
-  "ShiaBun": [{"type": "twitch", "identifier": "shiabun"}]
+  "AiCandii": [{"type": "twitch", "identifier": "aicandii", "nickname": "Candi"}],
+  "Buffpup": [{"type": "twitch", "identifier": "buffpup", "nickname": "Buff"}],
+  "Rosedoodle": [{"type": "twitch", "identifier": "rosedoodle", "nickname": "Rose"}],
+  "ShiaBun": [{"type": "twitch", "identifier": "shiabun", "nickname": "Shia"}]
 }
