@@ -1,9 +1,9 @@
 {
   "AdfreeVT": [{"type": "twitch", "identifier": "adfreevt"}],
-  "AlienMixture": [{"type": "twitch", "identifier": "alienmixture"}],
-  "CamizoleCorzette": [{"type": "twitch", "identifier": "camizolecorzette"}],
-  "MalfinaVT": [{"type": "twitch", "identifier": "malfinavt"}],
+  "AlienMixture": [{"type": "twitch", "identifier": "alienmixture", "nickname": "Ali"}],
+  "CamizoleCorzette": [{"type": "twitch", "identifier": "camizolecorzette", "nickname": "Cami"}],
+  "MalfinaVT": [{"type": "twitch", "identifier": "malfinavt", "nickname": "Malfi"}],
   "Sclimbo": [{"type": "twitch", "identifier": "vtubermale"}],
   "Snoozy": [{"type": "twitch", "identifier": "snoozy"}],
-  "YomiQuinnley": [{"type": "twitch", "identifier": "yomiquinnley"}]
+  "YomiQuinnley": [{"type": "twitch", "identifier": "yomiquinnley", "nickname": "Yomi"}]
 }
