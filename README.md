@@ -31,7 +31,7 @@ Examples:
   {
     "type": "twitch",
     "identifier": "aethelstan",
-    "nickname": "Aethel"}],
+    "nickname": "Aethel"
   }
 ]
 ```
