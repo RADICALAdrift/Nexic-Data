@@ -1,8 +1,8 @@
 {
-  "Akatsuki Hotaru": [{"type": "twitch", "identifier": "akatsukidhotaru"}],
-  "Henya the Genius": [{"type": "twitch", "identifier": "henyathegenius"}],
-  "Hestia Happiness": [{"type": "twitch", "identifier": "hestiahappiness"}],
-  "Kson": [{"type": "twitch", "identifier": "ksonsouchou"}],
-  "Okamoto Nagi": [{"type": "twitch", "identifier": "nagisekaied"}],
-  "Yutori Peke": [{"type": "twitch", "identifier": "pekeispeak"}]
+  "Akatsuki Hotaru": [{"type": "twitch", "identifier": "akatsukidhotaru", "nickname": "Hotaru"}],
+  "Henya the Genius": [{"type": "twitch", "identifier": "henyathegenius", "nickname": "Henya"}],
+  "Hestia Happiness": [{"type": "twitch", "identifier": "hestiahappiness", "nickname": "Hestia"}],
+  "Ksonsouchou": [{"type": "twitch", "identifier": "ksonsouchou", "nickname": "Kson"}],
+  "Okamoto Nagi": [{"type": "twitch", "identifier": "nagisekaied", "nickname": "Nagi"}],
+  "Yutori Peke": [{"type": "twitch", "identifier": "pekeispeak", "nickname": "Peke"}]
 }
