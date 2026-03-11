@@ -160,6 +160,13 @@
     {"identifier": "crellythecow", "type": "twitter"},
     {"identifier": "crellythecow", "type": "youtube"}
   ]},
+  "CypressVtuber": {
+  "nickname": "Cy", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "vtubercypress", "type": "twitch"},
+    {"identifier": "VtuberCypress", "type": "twitter"},
+    {"identifier": "VtuberCypress", "type": "youtube"}
+  ]},
   "CyYuVtuber": {
   "nickname": "CyYu", "former_agency": "", "former_identity": "",
   "platforms": [
