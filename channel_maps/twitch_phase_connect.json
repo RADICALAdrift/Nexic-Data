@@ -7,14 +7,14 @@
     {"identifier": "KanekoLumi", "type": "youtube"}
   ]},
   "Pipkin Pippa": {
-  "nickname": "", "former_agency": "", "former_identity": "",
+  "nickname": "Pippa", "former_agency": "", "former_identity": "",
   "platforms": [
     {"identifier": "pippa", "type": "twitch"},
     {"identifier": "pipkinpippa", "type": "twitter"},
     {"identifier": "PipkinPippa", "type": "youtube"}
   ]},
   "Tenma Maemi": {
-  "nickname": "", "former_agency": "", "former_identity": "",
+  "nickname": "Tenma", "former_agency": "", "former_identity": "",
   "platforms": [
     {"identifier": "tenma", "type": "twitch"},
     {"identifier": "tenmamaemi", "type": "twitter"},
