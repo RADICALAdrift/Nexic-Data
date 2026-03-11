@@ -706,8 +706,8 @@
   "ZombieCleo": {
   "nickname": "Cleo", "former_agency": "", "former_identity": "",
   "platforms": [
-    {"identifier": "yoclesh", "type": "twitch"},
-    {"identifier": "yoclesh", "type": "twitter"},
-    {"identifier": "Yoclesh", "type": "youtube"}
+    {"identifier": "zombiecleo", "type": "twitch"},
+    {"identifier": "ZombieCleo", "type": "twitter"},
+    {"identifier": "ZombieCleo", "type": "youtube"}
   ]}
 }
