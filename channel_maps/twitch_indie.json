@@ -258,6 +258,13 @@
     {"identifier": "FroggyLoch", "type": "twitter"},
     {"identifier": "FroggyLoch", "type": "youtube"}
   ]},
+  "Fufu": {
+  "nickname": "Fufu", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "fufu", "type": "twitch"},
+    {"identifier": "FufuVT", "type": "twitter"},
+    {"identifier": "FufuVT", "type": "youtube"}
+  ]},
   "Giwi": {
   "nickname": "Giwi", "former_agency": "", "former_identity": "",
   "platforms": [
