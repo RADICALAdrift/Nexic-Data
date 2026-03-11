@@ -65,7 +65,7 @@
   "BipsyGG": {
   "nickname": "Bipsy", "former_agency": "", "former_identity": "",
   "platforms": [
-    {"identifier": "bipsgg", "type": "twitch"},
+    {"identifier": "bipsygg", "type": "twitch"},
     {"identifier": "BipsyGG", "type": "twitter"},
     {"identifier": "BipsyGG", "type": "youtube"}
   ]},
