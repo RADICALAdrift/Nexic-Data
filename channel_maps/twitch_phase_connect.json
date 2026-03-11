@@ -1,23 +1,24 @@
 {
   "Kaneko Lumi": {
-  "nickname": "Lumi", "former_agency": "", "former_identity": "",
+  "nickname": "Lumi",
   "platforms": [
     {"identifier": "kanekolumi", "type": "twitch"},
     {"identifier": "Kaneko_Lumi", "type": "twitter"},
     {"identifier": "KanekoLumi", "type": "youtube"}
   ]},
   "Pipkin Pippa": {
-  "nickname": "Pippa", "former_agency": "", "former_identity": "",
+  "nickname": "Pippa",
   "platforms": [
     {"identifier": "pippa", "type": "twitch"},
     {"identifier": "pipkinpippa", "type": "twitter"},
     {"identifier": "PipkinPippa", "type": "youtube"}
   ]},
   "Tenma Maemi": {
-  "nickname": "Tenma", "former_agency": "", "former_identity": "",
+  "nickname": "Tenma",
   "platforms": [
     {"identifier": "tenma", "type": "twitch"},
     {"identifier": "tenmamaemi", "type": "twitter"},
     {"identifier": "TenmaMaemi", "type": "youtube"}
   ]}
 }
+
