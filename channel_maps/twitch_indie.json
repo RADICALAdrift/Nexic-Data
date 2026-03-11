@@ -13,6 +13,13 @@
     {"identifier": "Arielle_VT", "type": "twitter"},
     {"identifier": "Arielle-VT", "type": "youtube"}
   ]},
+  "ArtemisOfTheBlue": {
+  "nickname": "Artemis",
+  "platforms": [
+    {"identifier": "artemisoftheblue", "type": "twitch"},
+    {"identifier": "artemisvtuber", "type": "twitter"},
+    {"identifier": "ArtemisoftheBlueCh", "type": "youtube"}
+  ]},
   "August Anomaly": {
   "nickname": "August", "former_agency": "", "former_identity": "",
   "platforms": [
@@ -26,6 +33,13 @@
     {"identifier": "auteru", "type": "twitch"},
     {"identifier": "AuteruTori", "type": "twitter"},
     {"identifier": "AuteruTori", "type": "youtube"}
+  ]},
+  "AzuraTheAzureDragon": {
+  "nickname": "Azura",
+  "platforms": [
+    {"identifier": "azuratheazuredragon", "type": "twitch"},
+    {"identifier": "AzuraTheDragon2", "type": "twitter"},
+    {"identifier": "azuratheazuredragon2891", "type": "youtube"}
   ]},
   "BananaJuju": {
   "nickname": "Juju", "former_agency": "", "former_identity": "",
@@ -69,12 +83,33 @@
     {"identifier": "BlueNamie", "type": "twitter"},
     {"identifier": "bluenamievt", "type": "youtube"}
   ]},
+  "BlurrFlavorz": {
+  "nickname": "Blurr",
+  "platforms": [
+    {"identifier": "blurrflavorz", "type": "twitch"},
+    {"identifier": "BlurrFlavorz", "type": "twitter"},
+    {"identifier": "BlurrFlavorz", "type": "youtube"}
+  ]},
+  "BoltsTheMechanic": {
+  "nickname": "Bolts",
+  "platforms": [
+    {"identifier": "boltsthemechanic", "type": "twitch"},
+    {"identifier": "BoltsTheMech", "type": "twitter"},
+    {"identifier": "BoltsTheMechanic", "type": "youtube"}
+  ]},
   "BooTheRat": {
   "nickname": "Boo", "former_agency": "", "former_identity": "",
   "platforms": [
     {"identifier": "bootherat", "type": "twitch"},
     {"identifier": "bootoober", "type": "twitter"},
     {"identifier": "BooTheRat", "type": "youtube"}
+  ]},
+  "cakejumper": {
+  "nickname": "Cake",
+  "platforms": [
+    {"identifier": "cakejumper", "type": "twitch"},
+    {"identifier": "Itscakejumper", "type": "twitter"},
+    {"identifier": "cakejumper", "type": "youtube"}
   ]},
   "Camila": {
   "nickname": "Camimi", "former_agency": "", "former_identity": "",
