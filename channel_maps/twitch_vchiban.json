@@ -1,27 +1,27 @@
 {
   "AiCandii": {
-  "nickname": "Candi", "former_agency": "", "former_identity": "",
+  "nickname": "Candi",
   "platforms": [
     {"identifier": "aicandii", "type": "twitch"},
     {"identifier": "aicandii", "type": "twitter"},
     {"identifier": "AICandii", "type": "youtube"}
   ]},
   "Buffpup": {
-  "nickname": "Buff", "former_agency": "", "former_identity": "",
+  "nickname": "Buff",
   "platforms": [
     {"identifier": "buffpup", "type": "twitch"},
     {"identifier": "Buffpup_", "type": "twitter"},
     {"identifier": "buffpup", "type": "youtube"}
   ]},
   "Rosedoodle": {
-  "nickname": "Rose", "former_agency": "", "former_identity": "",
+  "nickname": "Rose",
   "platforms": [
     {"identifier": "rosedoodle", "type": "twitch"},
     {"identifier": "rosedoodles", "type": "twitter"},
     {"identifier": "rosedoodle", "type": "youtube"}
   ]},
   "ShiaBun": {
-  "nickname": "Shia", "former_agency": "", "former_identity": "",
+  "nickname": "Shia",
   "platforms": [
     {"identifier": "shiabun", "type": "twitch"},
     {"identifier": "ShiaBun", "type": "twitter"},
