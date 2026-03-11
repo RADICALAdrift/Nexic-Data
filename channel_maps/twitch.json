@@ -10,7 +10,7 @@
     {"identifier": "enigmazv", "type": "twitch"}
   ]},
   "Hikoh": {
-  "nickname": "Hiko", "former_agency": "", "former_identity": "",
+  "nickname": "Hiko",
   "platforms": [
     {"identifier": "hikoh", "type": "twitch"}
   ]},
