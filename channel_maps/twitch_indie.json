@@ -168,7 +168,7 @@
     {"identifier": "CyYuvods", "type": "youtube"}
   ]},
   "Dazey": {
-  "nickname": "Dazey", "former_agency": "", "former_identity": "",
+  "nickname": "Dazey", "former_agency": "", "former_identity": "Hazuki Mofu",
   "platforms": [
     {"identifier": "dazey", "type": "twitch"},
     {"identifier": "dazeystray", "type": "twitter"},
@@ -224,7 +224,7 @@
     {"identifier": "fallenshadow", "type": "youtube"}
   ]},
   "Fefe": {
-  "nickname": "", "former_agency": "", "former_identity": "",
+  "nickname": "Fefe", "former_agency": "", "former_identity": "",
   "platforms": [
     {"identifier": "fefe", "type": "twitch"},
     {"identifier": "CovfefeChan", "type": "twitter"},
@@ -238,7 +238,7 @@
     {"identifier": "filianIsLost", "type": "youtube"}
   ]},
   "FRAIKI": {
-  "nickname": "El XoX", "former_agency": "", "former_identity": "",
+  "nickname": "Fraiki", "former_agency": "", "former_identity": "",
   "platforms": [
     {"identifier": "fraiki", "type": "twitch"},
     {"identifier": "Fraiki", "type": "twitter"},
