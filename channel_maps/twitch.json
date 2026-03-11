@@ -1,11 +1,11 @@
 {
   "AndyPlays_Minecraft": {
-  "nickname": "Andy", "former_agency": "", "former_identity": "",
+  "nickname": "Andy",
   "platforms": [
     {"identifier": "andyplays_minecraft", "type": "twitch"}
   ]},
   "EnigmaZV": {
-  "nickname": "Enigma", "former_agency": "", "former_identity": "",
+  "nickname": "Enigma",
   "platforms": [
     {"identifier": "enigmazv", "type": "twitch"}
   ]},
@@ -15,7 +15,7 @@
     {"identifier": "hikoh", "type": "twitch"}
   ]},
   "RADICALAdrift": {
-  "nickname": "RADICAL", "former_agency": "", "former_identity": "",
+  "nickname": "RADICAL",
   "platforms": [
     {"identifier": "radicaladrift", "type": "twitch"}
   ]}
