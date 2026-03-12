@@ -50,17 +50,7 @@ Example:
 
 Some entries may include optional metadata.
 
-Example with and without nickname support:
-
-```json
-"LordAethelstan": {
-"nickname": "Aethel"
-"platforms": [
-  {"identifier": "lordaethelstan", "type": "twitch"},
-  {"identifier": "LordAethelstan", "type": "twitter"},
-  {"identifier": "lordaethelstan69", "type": "youtube"}
-]}
-```
+Example without nickname support:
 
 ```json
 "LordAethelstan": {
