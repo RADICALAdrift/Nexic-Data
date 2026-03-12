@@ -125,6 +125,13 @@
     {"identifier": "cerberVT", "type": "twitter"},
     {"identifier": "cerberVT", "type": "youtube"}
   ]},
+  "ChaChaYourVmom": {
+  "nickname": "ChaCha", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "chachayourvmom", "type": "twitch"},
+    {"identifier": "ChaChayourvmom", "type": "twitter"},
+    {"identifier": "ChaChaYourVmom", "type": "youtube"}
+  ]},
   "ChelzorTheDestroyer": {
   "nickname": "Chelzor", "former_agency": "", "former_identity": "",
   "platforms": [
@@ -487,6 +494,13 @@
     {"identifier": "ppslayer_vt", "type": "twitter"},
     {"identifier": "Pipi_Slayer", "type": "youtube"}
   ]},
+  "Podgekinn": {
+  "nickname": "Podge", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "podgekinn", "type": "twitch"},
+    {"identifier": "podgekinn", "type": "twitter"},
+    {"identifier": "podgekinn", "type": "youtube"}
+  ]},
   "PorcelainMaid": {
   "nickname": "Joel", "former_agency": "", "former_identity": "",
   "platforms": [
@@ -542,6 +556,13 @@
     {"identifier": "reycallsounds", "type": "twitch"},
     {"identifier": "REYCALL1", "type": "twitter"},
     {"identifier": "reycallsounds", "type": "youtube"}
+  ]},
+  "RimaEvenstar": {
+  "nickname": "Rima", "former_agency": "", "former_identity": "",
+  "platforms": [
+    {"identifier": "rimaevenstar", "type": "twitch"},
+    {"identifier": "RimaEvenstar", "type": "twitter"},
+    {"identifier": "rimaevenstar", "type": "youtube"}
   ]},
   "RinPenrose": {
   "nickname": "Rin", "former_agency": "", "former_identity": "",
