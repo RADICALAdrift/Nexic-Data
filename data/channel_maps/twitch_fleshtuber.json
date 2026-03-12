@@ -1,0 +1,37 @@
+{
+  "CDawg": {
+  "nickname": "Connor",
+  "platforms": [
+    {"identifier": "cdawg", "type": "twitch"},
+    {"identifier": "CDawgVA", "type": "twitter"},
+    {"identifier": "CDawgVA", "type": "youtube"}
+  ]},
+  "Papamutt": {
+  "nickname": "Papa",
+  "platforms": [
+    {"identifier": "papamutt", "type": "twitch"},
+    {"identifier": "ThePapaMutt", "type": "twitter"},
+    {"identifier": "PapaMuttTV", "type": "youtube"}
+  ]},
+  "Peter": {
+  "nickname": "Pete",
+  "platforms": [
+    {"identifier": "peter", "type": "twitch"},
+    {"identifier": "premier_two", "type": "twitter"},
+    {"identifier": "PremierTwo", "type": "youtube"}
+  ]},
+  "RayNarvaezJr": {
+  "nickname": "Ray",
+  "platforms": [
+    {"identifier": "ray", "type": "twitch"},
+    {"identifier": "RayNarvaezJr", "type": "twitter"},
+    {"identifier": "rayyylmao", "type": "youtube"}
+  ]},
+  "RubenSargasm": {
+  "nickname": "Ruben",
+  "platforms": [
+    {"identifier": "rubensargasm", "type": "twitch"},
+    {"identifier": "RubenSargasm", "type": "twitter"},
+    {"identifier": "RubenSargasm", "type": "youtube"}
+  ]}
+}
