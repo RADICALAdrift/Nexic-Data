@@ -1,780 +1,832 @@
 {
   "LordAethelstan": {
-  "nickname": "Aethel", "former_agency": "", "former_identity": "",
+  "nickname": "Aethel", "former_identity": "",
   "platforms": [
     {"identifier": "lordaethelstan", "type": "twitch"},
     {"identifier": "LordAethelstan", "type": "twitter"},
     {"identifier": "lordaethelstan69", "type": "youtube"}
   ]},
   "Arielle": {
-  "nickname": "Ari", "former_agency": "", "former_identity": "",
+  "nickname": "Ari", "former_identity": "",
   "platforms": [
     {"identifier": "arielle", "type": "twitch"},
     {"identifier": "Arielle_VT", "type": "twitter"},
     {"identifier": "Arielle-VT", "type": "youtube"}
   ]},
   "ArtemisOfTheBlue": {
-  "nickname": "Artemis",
+  "nickname": "Artemis", "former_identity": "",
   "platforms": [
     {"identifier": "artemisoftheblue", "type": "twitch"},
     {"identifier": "artemisvtuber", "type": "twitter"},
     {"identifier": "ArtemisoftheBlueCh", "type": "youtube"}
   ]},
   "August Anomaly": {
-  "nickname": "August", "former_agency": "", "former_identity": "",
+  "nickname": "August", "former_identity": "",
   "platforms": [
     {"identifier": "august_anomaly", "type": "twitch"},
     {"identifier": "august_anomaly", "type": "twitter"},
     {"identifier": "AugustAnomaly", "type": "youtube"}
   ]},
   "Auteru": {
-  "nickname": "Teru", "former_agency": "", "former_identity": "",
+  "nickname": "Teru", "former_identity": "",
   "platforms": [
     {"identifier": "auteru", "type": "twitch"},
     {"identifier": "AuteruTori", "type": "twitter"},
     {"identifier": "AuteruTori", "type": "youtube"}
   ]},
   "AzuraTheAzureDragon": {
-  "nickname": "Azura",
+  "nickname": "Azura", "former_identity": "",
   "platforms": [
     {"identifier": "azuratheazuredragon", "type": "twitch"},
     {"identifier": "AzuraTheDragon2", "type": "twitter"},
     {"identifier": "azuratheazuredragon2891", "type": "youtube"}
   ]},
   "BananaJuju": {
-  "nickname": "Juju", "former_agency": "", "former_identity": "",
+  "nickname": "Juju", "former_identity": "",
   "platforms": [
     {"identifier": "bananajuju", "type": "twitch"},
     {"identifier": "BananaJuju_", "type": "twitter"},
     {"identifier": "Banana_Juju", "type": "youtube"}
   ]},
   "Bao The Whale": {
-  "nickname": "Bao", "former_agency": "", "former_identity": "",
+  "nickname": "Bao", "former_identity": "",
   "platforms": [
     {"identifier": "bao", "type": "twitch"},
     {"identifier": "baovtuber", "type": "twitter"},
     {"identifier": "baovtuber", "type": "youtube"}
   ]},
   "BasilWoof": {
-  "nickname": "Basil", "former_agency": "", "former_identity": "",
+  "nickname": "Basil", "former_identity": "",
   "platforms": [
     {"identifier": "basilwoof", "type": "twitch"},
     {"identifier": "BasilWoof_", "type": "twitter"},
     {"identifier": "BasilWoof_", "type": "youtube"}
   ]},
+  "Belbasaura": {
+  "nickname": "Bel", "former_identity": "",
+  "platforms": [
+    {"identifier": "belbasaura", "type": "twitch"},
+    {"identifier": "Belbasaura", "type": "twitter"},
+    {"identifier": "belbasaura", "type": "youtube"}
+  ]},
   "BipsyGG": {
-  "nickname": "Bipsy", "former_agency": "", "former_identity": "",
+  "nickname": "Bipsy", "former_identity": "",
   "platforms": [
     {"identifier": "bipsygg", "type": "twitch"},
     {"identifier": "BipsyGG", "type": "twitter"},
     {"identifier": "BipsyGG", "type": "youtube"}
   ]},
   "Bimten": {
-  "nickname": "Bim", "former_agency": "", "former_identity": "",
+  "nickname": "Bim", "former_identity": "",
   "platforms": [
     {"identifier": "bimten", "type": "twitch"},
     {"identifier": "bimtenvt", "type": "twitter"},
     {"identifier": "bimtenvt", "type": "youtube"}
   ]},
   "Bluenamie": {
-  "nickname": "Namie", "former_agency": "", "former_identity": "",
+  "nickname": "Namie", "former_identity": "",
   "platforms": [
     {"identifier": "bluenamie", "type": "twitch"},
     {"identifier": "BlueNamie", "type": "twitter"},
     {"identifier": "bluenamievt", "type": "youtube"}
   ]},
   "BlurrFlavorz": {
-  "nickname": "Blurr",
+  "nickname": "Blurr", "former_identity": "",
   "platforms": [
     {"identifier": "blurrflavorz", "type": "twitch"},
     {"identifier": "BlurrFlavorz", "type": "twitter"},
     {"identifier": "BlurrFlavorz", "type": "youtube"}
   ]},
   "BoltsTheMechanic": {
-  "nickname": "Bolts",
+  "nickname": "Bolts", "former_identity": "",
   "platforms": [
     {"identifier": "boltsthemechanic", "type": "twitch"},
     {"identifier": "BoltsTheMech", "type": "twitter"},
     {"identifier": "BoltsTheMechanic", "type": "youtube"}
   ]},
   "BooTheRat": {
-  "nickname": "Boo", "former_agency": "", "former_identity": "",
+  "nickname": "Boo", "former_identity": "",
   "platforms": [
     {"identifier": "bootherat", "type": "twitch"},
     {"identifier": "bootoober", "type": "twitter"},
     {"identifier": "BooTheRat", "type": "youtube"}
   ]},
   "Cakejumper": {
-  "nickname": "Cake",
+  "nickname": "Cake", "former_identity": "",
   "platforms": [
     {"identifier": "cakejumper", "type": "twitch"},
     {"identifier": "Itscakejumper", "type": "twitter"},
     {"identifier": "cakejumper", "type": "youtube"}
   ]},
   "Camila": {
-  "nickname": "Camimi", "former_agency": "", "former_identity": "",
+  "nickname": "Camimi", "former_identity": "",
   "platforms": [
     {"identifier": "camila", "type": "twitch"},
     {"identifier": "cumilq", "type": "twitter"},
     {"identifier": "cumilq", "type": "youtube"}
   ]},
   "CerberVT": {
-  "nickname": "Cerber", "former_agency": "", "former_identity": "",
+  "nickname": "Cerber", "former_identity": "",
   "platforms": [
     {"identifier": "cerbervt", "type": "twitch"},
     {"identifier": "cerberVT", "type": "twitter"},
     {"identifier": "cerberVT", "type": "youtube"}
   ]},
   "ChaChaYourVmom": {
-  "nickname": "ChaCha", "former_agency": "", "former_identity": "",
+  "nickname": "ChaCha", "former_identity": "",
   "platforms": [
     {"identifier": "chachayourvmom", "type": "twitch"},
     {"identifier": "ChaChayourvmom", "type": "twitter"},
     {"identifier": "ChaChaYourVmom", "type": "youtube"}
   ]},
   "ChelzorTheDestroyer": {
-  "nickname": "Chelzor", "former_agency": "", "former_identity": "",
+  "nickname": "Chelzor", "former_identity": "",
   "platforms": [
     {"identifier": "chelzorthedestroyer", "type": "twitch"},
     {"identifier": "ChelzorStreams", "type": "twitter"},
     {"identifier": "chelzorthedestroyer", "type": "youtube"}
   ]},
   "Chibidoki": {
-  "nickname": "Chibi", "former_agency": "", "former_identity": "",
+  "nickname": "Chibi", "former_identity": "",
   "platforms": [
     {"identifier": "chibidoki", "type": "twitch"},
     {"identifier": "chibidoki", "type": "twitter"},
     {"identifier": "chibidoki", "type": "youtube"}
   ]},
+  "ChioChompi": {
+  "nickname": "Chio", "former_identity": "",
+  "platforms": [
+    {"identifier": "", "type": "twitch"},
+    {"identifier": "ChioChompi", "type": "twitter"},
+    {"identifier": "ChioChompi", "type": "youtube"}
+  ]},
   "ChonkyLotus": {
-  "nickname": "Chonky", "former_agency": "", "former_identity": "",
+  "nickname": "Chonky", "former_identity": "",
   "platforms": [
     {"identifier": "chonkylotus", "type": "twitch"},
     {"identifier": "ChonkyLotus", "type": "twitter"},
     {"identifier": "ChonkyLotus", "type": "youtube"}
   ]},
+  "ChuriRubyVT": {
+  "nickname": "Churi", "former_identity": "",
+  "platforms": [
+    {"identifier": "churiruby", "type": "twitch"},
+    {"identifier": "churirubyVT", "type": "twitter"},
+    {"identifier": "Churiruby", "type": "youtube"}
+  ]},
+  "Chuutie": {
+  "nickname": "Chu", "former_identity": "",
+  "platforms": [
+    {"identifier": "chuutiee", "type": "twitch"},
+    {"identifier": "chuutie", "type": "twitter"},
+    {"identifier": "ChuutieVT", "type": "youtube"}
+  ]},
   "CottontailVA": {
-  "nickname": "Cotton", "former_agency": "", "former_identity": "",
+  "nickname": "Cotton", "former_identity": "",
   "platforms": [
     {"identifier": "cottontailva", "type": "twitch"},
     {"identifier": "cottontailva", "type": "twitter"},
     {"identifier": "CottontailVA", "type": "youtube"}
   ]},
   "Crelly": {
-  "nickname": "Crelly", "former_agency": "", "former_identity": "",
+  "nickname": "Crelly", "former_identity": "",
   "platforms": [
     {"identifier": "crelly", "type": "twitch"},
     {"identifier": "crellythecow", "type": "twitter"},
     {"identifier": "crellythecow", "type": "youtube"}
   ]},
   "CypressVtuber": {
-  "nickname": "Cy", "former_agency": "", "former_identity": "",
+  "nickname": "Cy", "former_identity": "",
   "platforms": [
     {"identifier": "vtubercypress", "type": "twitch"},
     {"identifier": "VtuberCypress", "type": "twitter"},
     {"identifier": "VtuberCypress", "type": "youtube"}
   ]},
   "CyYuVtuber": {
-  "nickname": "CyYu", "former_agency": "", "former_identity": "",
+  "nickname": "CyYu", "former_identity": "",
   "platforms": [
     {"identifier": "cyyuvtuber", "type": "twitch"},
     {"identifier": "CyYuVtuber", "type": "twitter"},
     {"identifier": "CyYuvods", "type": "youtube"}
   ]},
   "Dazey": {
-  "nickname": "Dazey", "former_agency": "", "former_identity": "Hazuki Mofu",
+  "nickname": "Dazey", "former_identity": "Hazuki Mofu",
   "platforms": [
     {"identifier": "dazey", "type": "twitch"},
     {"identifier": "dazeystray", "type": "twitter"},
     {"identifier": "dazeystray", "type": "youtube"}
   ]},
   "Demenishki": {
-  "nickname": "Deme", "former_agency": "", "former_identity": "",
+  "nickname": "Deme", "former_identity": "",
   "platforms": [
     {"identifier": "deme", "type": "twitch"},
     {"identifier": "demenishki", "type": "twitter"},
     {"identifier": "demenishkiVT", "type": "youtube"}
   ]},
+  "DemonBenny": {
+  "nickname": "Benny", "former_identity": "",
+  "platforms": [
+    {"identifier": "demonbenny", "type": "twitch"},
+    {"identifier": "DemonBennyy", "type": "twitter"},
+    {"identifier": "demonbennyy", "type": "youtube"}
+  ]},
   "Dokibird": {
-  "nickname": "Doki", "former_agency": "Nijisanji", "former_identity": "Selen Tatsuki",
+  "nickname": "Doki", "former_identity": "Selen Tatsuki",
   "platforms": [
     {"identifier": "dokibird", "type": "twitch"},
     {"identifier": "dokibird", "type": "twitter"},
     {"identifier": "DokiBird", "type": "youtube"}
   ]},
   "Dooby3D": {
-  "nickname": "Dooby", "former_agency": "", "former_identity": "",
+  "nickname": "Dooby", "former_identity": "",
   "platforms": [
     {"identifier": "dooby3d", "type": "twitch"},
     {"identifier": "dooby3D", "type": "twitter"},
     {"identifier": "dooby3d", "type": "youtube"}
   ]},
+  "DragonSpitVT": {
+  "nickname": "Fae", "former_identity": "",
+  "platforms": [
+    {"identifier": "dragonspit", "type": "twitch"},
+    {"identifier": "DragonSpitVT", "type": "twitter"},
+    {"identifier": "dragonspitvt", "type": "youtube"}
+  ]},
+  "Ebiko": {
+  "nickname": "Ebi", "former_identity": "",
+  "platforms": [
+    {"identifier": "ebiko", "type": "twitch"},
+    {"identifier": "EbikoVtuber", "type": "twitter"},
+    {"identifier": "EbikoVT", "type": "youtube"}
+  ]},
   "Elara": {
-  "nickname": "Elara", "former_agency": "", "former_identity": "",
+  "nickname": "Elara", "former_identity": "",
   "platforms": [
     {"identifier": "elara", "type": "twitch"},
     {"identifier": "ElaraVtuber", "type": "twitter"},
     {"identifier": "Elarareacts", "type": "youtube"}
   ]},
   "Ellie Minibot": {
-  "nickname": "Ellie", "former_agency": "", "former_identity": "",
+  "nickname": "Ellie", "former_identity": "",
   "platforms": [
     {"identifier": "ellie_minibot", "type": "twitch"},
     {"identifier": "dumb_lil_robot", "type": "twitter"},
     {"identifier": "Ellie_Minibot", "type": "youtube"}
   ]},
   "El XoX": {
-  "nickname": "El XoX", "former_agency": "", "former_identity": "",
+  "nickname": "El XoX", "former_identity": "",
   "platforms": [
     {"identifier": "el_xox", "type": "twitch"},
     {"identifier": "elXoX34", "type": "twitter"},
     {"identifier": "el_XoXTV", "type": "youtube"}
   ]},
   "FallenShadow": {
-  "nickname": "Shondo", "former_agency": "", "former_identity": "",
+  "nickname": "Shondo", "former_identity": "",
   "platforms": [
     {"identifier": "fallenshadow", "type": "twitch"},
     {"identifier": "fallenshadow_VT", "type": "twitter"},
     {"identifier": "fallenshadow", "type": "youtube"}
   ]},
   "Fefe": {
-  "nickname": "Fefe", "former_agency": "", "former_identity": "",
+  "nickname": "Fefe", "former_identity": "",
   "platforms": [
     {"identifier": "fefe", "type": "twitch"},
     {"identifier": "CovfefeChan", "type": "twitter"},
     {"identifier": "FeFeVtuber", "type": "youtube"}
   ]},
   "Filian": {
-  "nickname": "Fillian", "former_agency": "", "former_identity": "",
+  "nickname": "Fillian", "former_identity": "",
   "platforms": [
     {"identifier": "filian", "type": "twitch"},
     {"identifier": "filianIsLost", "type": "twitter"},
     {"identifier": "filianIsLost", "type": "youtube"}
   ]},
   "FRAIKI": {
-  "nickname": "Fraiki", "former_agency": "", "former_identity": "",
+  "nickname": "Fraiki", "former_identity": "",
   "platforms": [
     {"identifier": "fraiki", "type": "twitch"},
     {"identifier": "Fraiki", "type": "twitter"},
     {"identifier": "Fraiki", "type": "youtube"}
   ]},
   "FroggyLoch": {
-  "nickname": "Froggy", "former_agency": "", "former_identity": "",
+  "nickname": "Froggy", "former_identity": "",
   "platforms": [
     {"identifier": "froggyloch", "type": "twitch"},
     {"identifier": "FroggyLoch", "type": "twitter"},
     {"identifier": "FroggyLoch", "type": "youtube"}
   ]},
   "Fufu": {
-  "nickname": "Fufu", "former_agency": "", "former_identity": "",
+  "nickname": "Fufu", "former_identity": "",
   "platforms": [
     {"identifier": "fufu", "type": "twitch"},
     {"identifier": "FufuVT", "type": "twitter"},
     {"identifier": "FufuVT", "type": "youtube"}
   ]},
   "Giwi": {
-  "nickname": "Giwi", "former_agency": "", "former_identity": "",
+  "nickname": "Giwi", "former_identity": "",
   "platforms": [
     {"identifier": "giwi", "type": "twitch"},
     {"identifier": "Giwi_", "type": "twitter"},
     {"identifier": "GiwiVT", "type": "youtube"}
   ]},
   "GX Aura": {
-  "nickname": "Orchan", "former_agency": "", "former_identity": "",
+  "nickname": "Orchan", "former_identity": "",
   "platforms": [
     {"identifier": "gx_aura", "type": "twitch"},
     {"identifier": "GXAuraOfficial", "type": "twitter"},
     {"identifier": "GXAuraOfficial", "type": "youtube"}
   ]},
   "HeavenlyFather": {
-  "nickname": "Heavenly", "former_agency": "", "former_identity": "",
+  "nickname": "Heavenly", "former_identity": "",
   "platforms": [
     {"identifier": "heavenlyfather", "type": "twitch"},
     {"identifier": "HeavenlyyFather", "type": "twitter"},
     {"identifier": "HeavenlyyFather", "type": "youtube"}
   ]},
   "Isaa (E-sa)": {
-  "nickname": "Isaa", "former_agency": "", "former_identity": "",
+  "nickname": "Isaa", "former_identity": "",
   "platforms": [
     {"identifier": "isaa", "type": "twitch"},
     {"identifier": "IsaaCorva", "type": "twitter"},
     {"identifier": "isaacorva", "type": "youtube"}
   ]},
   "JuniperActias": {
-  "nickname": "Juniper", "former_agency": "", "former_identity": "",
+  "nickname": "Juniper", "former_identity": "",
   "platforms": [
     {"identifier": "juniperactias", "type": "twitch"},
     {"identifier": "Egocider", "type": "twitter"},
     {"identifier": "juniperactiasofficial", "type": "youtube"}
   ]},
   "KloeKroc": {
-  "nickname": "Kloe", "former_agency": "", "former_identity": "",
+  "nickname": "Kloe", "former_identity": "",
   "platforms": [
     {"identifier": "kloekroc", "type": "twitch"},
     {"identifier": "KloeKroc", "type": "twitter"},
     {"identifier": "KloeKroc", "type": "youtube"}
   ]},
   "KokoNuts": {
-  "nickname": "Koko", "former_agency": "", "former_identity": "",
+  "nickname": "Koko", "former_identity": "",
   "platforms": [
     {"identifier": "kokonuts", "type": "twitch"},
     {"identifier": "KokoNutsVT", "type": "twitter"},
     {"identifier": "kokonutsvt", "type": "youtube"}
   ]},
   "Kumi": {
-  "nickname": "Kumi", "former_agency": "", "former_identity": "",
+  "nickname": "Kumi", "former_identity": "",
   "platforms": [
     {"identifier": "kumi", "type": "twitch"},
     {"identifier": "KumiVT", "type": "twitter"},
     {"identifier": "KumiVT", "type": "youtube"}
   ]},
   "LaynaLazar": {
-  "nickname": "Layna", "former_agency": "", "former_identity": "",
+  "nickname": "Layna", "former_identity": "",
   "platforms": [
     {"identifier": "laynalazar", "type": "twitch"},
     {"identifier": "LaynaLazar", "type": "twitter"},
     {"identifier": "LaynaLazar", "type": "youtube"}
   ]},
   "Limealicious": {
-  "nickname": "Laimu", "former_agency": "", "former_identity": "",
+  "nickname": "Laimu", "former_identity": "",
   "platforms": [
     {"identifier": "limealicious", "type": "twitch"},
     {"identifier": "Limealicious", "type": "twitter"},
     {"identifier": "Limealicious", "type": "youtube"}
   ]},
   "Lucia": {
-  "nickname": "Lucie", "former_agency": "", "former_identity": "",
+  "nickname": "Lucie", "former_identity": "",
   "platforms": [
     {"identifier": "lucia", "type": "twitch"},
     {"identifier": "luciacrabs", "type": "twitter"},
     {"identifier": "luciavt", "type": "youtube"}
   ]},
   "LucyPyre": {
-  "nickname": "Lucy", "former_agency": "", "former_identity": "",
+  "nickname": "Lucy", "former_identity": "",
   "platforms": [
     {"identifier": "lucypyre", "type": "twitch"},
     {"identifier": "LucyPyre_", "type": "twitter"},
     {"identifier": "LucyPyre", "type": "youtube"}
   ]},
   "LuminusRed": {
-  "nickname": "Lumi", "former_agency": "", "former_identity": "",
+  "nickname": "Lumi", "former_identity": "",
   "platforms": [
     {"identifier": "luminusred", "type": "twitch"},
     {"identifier": "LuminusRed", "type": "twitter"},
     {"identifier": "LuminusRedVT", "type": "youtube"}
   ]},
   "Meat": {
-  "nickname": "Meat", "former_agency": "", "former_identity": "",
+  "nickname": "Meat", "former_identity": "",
   "platforms": [
     {"identifier": "meat", "type": "twitch"},
     {"identifier": "meatscave", "type": "twitter"},
     {"identifier": "meatscave", "type": "youtube"}
   ]},
   "MegaladonVT": {
-  "nickname": "Mega", "former_agency": "", "former_identity": "",
+  "nickname": "Mega", "former_identity": "",
   "platforms": [
     {"identifier": "megalodonvt", "type": "twitch"},
     {"identifier": "MegalodonVT", "type": "twitter"},
     {"identifier": "megalodonVT", "type": "youtube"}
   ]},
   "Merryweather": {
-  "nickname": "Merry", "former_agency": "", "former_identity": "",
+  "nickname": "Merry", "former_identity": "",
   "platforms": [
     {"identifier": "merryweather", "type": "twitch"},
     {"identifier": "Merrydawg", "type": "twitter"},
     {"identifier": "Merrydawg", "type": "youtube"}
   ]},
   "Meicha": {
-  "nickname": "Mei", "former_agency": "", "former_identity": "",
+  "nickname": "Mei", "former_identity": "",
   "platforms": [
     {"identifier": "meicha", "type": "twitch"},
     {"identifier": "MeichaFox", "type": "twitter"},
     {"identifier": "MeichaFox", "type": "youtube"}
   ]},
   "Milkywayz": {
-  "nickname": "Milky", "former_agency": "", "former_identity": "",
+  "nickname": "Milky", "former_identity": "",
   "platforms": [
     {"identifier": "milky", "type": "twitch"},
     {"identifier": "Miilkywayz", "type": "twitter"},
     {"identifier": "miilkywayz", "type": "youtube"}
   ]},
   "MinikoMew": {
-  "nickname": "Mini", "former_agency": "", "former_identity": "Miyune",
+  "nickname": "Mini", "former_identity": "Miyune",
   "platforms": [
     {"identifier": "minikomew", "type": "twitch"},
     {"identifier": "MinikoMew", "type": "twitter"},
     {"identifier": "MinikoMew", "type": "youtube"}
   ]},
   "MooMooClover": {
-  "nickname": "Clover", "former_agency": "", "former_identity": "",
+  "nickname": "Clover", "former_identity": "",
   "platforms": [
     {"identifier": "moomooclover", "type": "twitch"},
     {"identifier": "MooMooClover", "type": "twitter"},
     {"identifier": "MooMooClover", "type": "youtube"}
   ]},
   "Mooni": {
-  "nickname": "Mooni", "former_agency": "", "former_identity": "",
+  "nickname": "Mooni", "former_identity": "",
   "platforms": [
     {"identifier": "mooni", "type": "twitch"},
     {"identifier": "MeowMoonified", "type": "twitter"},
     {"identifier": "MeowMoonified", "type": "youtube"}
   ]},
   "MissLalaVT": {
-  "nickname": "Lala", "former_agency": "", "former_identity": "",
+  "nickname": "Lala", "former_identity": "",
   "platforms": [
     {"identifier": "misslalavt", "type": "twitch"},
     {"identifier": "MissLalaVT", "type": "twitter"},
     {"identifier": "MissLalaVT", "type": "youtube"}
   ]},
   "MiyaMewrilee": {
-  "nickname": "Miya", "former_agency": "", "former_identity": "",
+  "nickname": "Miya", "former_identity": "",
   "platforms": [
     {"identifier": "miyamewrilee", "type": "twitch"},
     {"identifier": "MiyaMewrilee", "type": "twitter"},
     {"identifier": "miyamewrilee", "type": "youtube"}
   ]},
   "Momo": {
-  "nickname": "Momo", "former_agency": "", "former_identity": "",
+  "nickname": "Momo", "former_identity": "",
   "platforms": [
     {"identifier": "momo", "type": "twitch"},
-    {"identifier": "MomoMischief", "type": "twitter"}
+    {"identifier": "MomoMischief", "type": "twitter"},
+    {"identifier": "", "type": "youtube"}
   ]},
   "MOTHERv3": {
-  "nickname": "MOTHER", "former_agency": "", "former_identity": "",
+  "nickname": "MOTHER", "former_identity": "",
   "platforms": [
     {"identifier": "motherv3", "type": "twitch"},
     {"identifier": "MOTHER_v3", "type": "twitter"},
     {"identifier": "MOTHERv3", "type": "youtube"}
   ]},
   "Necronival": {
-  "nickname": "Croni", "former_agency": "", "former_identity": "",
+  "nickname": "Croni", "former_identity": "",
   "platforms": [
     {"identifier": "necronival", "type": "twitch"},
     {"identifier": "necronival", "type": "twitter"},
     {"identifier": "necronival", "type": "youtube"}
   ]},
   "Nanoless": {
-  "nickname": "Nano", "former_agency": "", "former_identity": "",
+  "nickname": "Nano", "former_identity": "",
   "platforms": [
     {"identifier": "nanoless", "type": "twitch"},
-    {"identifier": "Nanoless_", "type": "twitter"}
+    {"identifier": "Nanoless_", "type": "twitter"},
+    {"identifier": "", "type": "youtube"}
   ]},
   "Nihmune": {
-  "nickname": "Numi", "former_agency": "", "former_identity": "",
+  "nickname": "Numi", "former_identity": "",
   "platforms": [
     {"identifier": "nihmune", "type": "twitch"},
     {"identifier": "nihmune", "type": "twitter"},
     {"identifier": "AkumaNihmune", "type": "youtube"}
   ]},
   "ObKatieKat": {
-  "nickname": "Katie", "former_agency": "", "former_identity": "",
+  "nickname": "Katie", "former_identity": "",
   "platforms": [
     {"identifier": "obkatiekat", "type": "twitch"},
     {"identifier": "obkatiekat", "type": "twitter"},
     {"identifier": "obkatiekat", "type": "youtube"}
   ]},
   "OniGiri": {
-  "nickname": "Giri", "former_agency": "", "former_identity": "",
+  "nickname": "Giri", "former_identity": "",
   "platforms": [
     {"identifier": "onigiri", "type": "twitch"},
     {"identifier": "OnigiriEn_", "type": "twitter"},
     {"identifier": "onigirien", "type": "youtube"}
   ]},
   "PastaroniRavioli": {
-  "nickname": "Pasta", "former_agency": "", "former_identity": "",
+  "nickname": "Pasta", "former_identity": "",
   "platforms": [
     {"identifier": "pastaroniravioli", "type": "twitch"},
     {"identifier": "pastaravioli", "type": "twitter"},
     {"identifier": "PastaroniRavioliGaming", "type": "youtube"}
   ]},
   "Pipi Slayer": {
-  "nickname": "Pipi", "former_agency": "", "former_identity": "",
+  "nickname": "Pipi", "former_identity": "",
   "platforms": [
     {"identifier": "pipi_slayer", "type": "twitch"},
     {"identifier": "ppslayer_vt", "type": "twitter"},
     {"identifier": "Pipi_Slayer", "type": "youtube"}
   ]},
   "Podgekinn": {
-  "nickname": "Podge", "former_agency": "", "former_identity": "",
+  "nickname": "Podge", "former_identity": "",
   "platforms": [
     {"identifier": "podgekinn", "type": "twitch"},
     {"identifier": "podgekinn", "type": "twitter"},
     {"identifier": "podgekinn", "type": "youtube"}
   ]},
   "PorcelainMaid": {
-  "nickname": "Joel", "former_agency": "", "former_identity": "",
+  "nickname": "Joel", "former_identity": "",
   "platforms": [
     {"identifier": "porcelainmaid", "type": "twitch"},
     {"identifier": "PorcelainMaid", "type": "twitter"},
     {"identifier": "PorcelainMaid", "type": "youtube"}
   ]},
   "Powdur": {
-  "nickname": "Powdur", "former_agency": "", "former_identity": "",
+  "nickname": "Powdur", "former_identity": "",
   "platforms": [
     {"identifier": "powdur", "type": "twitch"},
     {"identifier": "powdury", "type": "twitter"},
     {"identifier": "Powdur", "type": "youtube"}
   ]},
   "PumpkinPotion": {
-  "nickname": "Pumpkin", "former_agency": "", "former_identity": "",
+  "nickname": "Pumpkin", "former_identity": "",
   "platforms": [
     {"identifier": "pumpkinpotion", "type": "twitch"},
     {"identifier": "pumpkinpotion", "type": "twitter"},
     {"identifier": "pumpkinpotion", "type": "youtube"}
   ]},
   "PupunaMai": {
-  "nickname": "Mai", "former_agency": "", "former_identity": "",
+  "nickname": "Mai", "former_identity": "",
   "platforms": [
     {"identifier": "pupunamai", "type": "twitch"},
     {"identifier": "PupunaMai", "type": "twitter"},
     {"identifier": "pupunamai", "type": "youtube"}
   ]},
   "Radiaactive": {
-  "nickname": "Radia", "former_agency": "", "former_identity": "",
+  "nickname": "Radia", "former_identity": "",
   "platforms": [
     {"identifier": "radiaactive", "type": "twitch"},
     {"identifier": "RadiaActive_VT", "type": "twitter"},
     {"identifier": "RADIAACTIVE", "type": "youtube"}
   ]},
   "Rainhoe": {
-  "nickname": "Rain", "former_agency": "", "former_identity": "",
+  "nickname": "Rain", "former_identity": "",
   "platforms": [
     {"identifier": "rainhoe", "type": "twitch"},
     {"identifier": "RainhoeVT", "type": "twitter"},
     {"identifier": "RainhoeVT", "type": "youtube"}
   ]},
   "RegaliaRoseVT": {
-  "nickname": "Rose", "former_agency": "", "former_identity": "",
+  "nickname": "Rose", "former_identity": "",
   "platforms": [
     {"identifier": "regaliarosevt", "type": "twitch"},
     {"identifier": "regalia_rose", "type": "twitter"},
     {"identifier": "Regaliarose_vt", "type": "youtube"}
   ]},
   "Reycallsounds": {
-  "nickname": "Reycall", "former_agency": "", "former_identity": "",
+  "nickname": "Reycall", "former_identity": "",
   "platforms": [
     {"identifier": "reycallsounds", "type": "twitch"},
     {"identifier": "REYCALL1", "type": "twitter"},
     {"identifier": "reycallsounds", "type": "youtube"}
   ]},
   "RimaEvenstar": {
-  "nickname": "Rima", "former_agency": "", "former_identity": "",
+  "nickname": "Rima", "former_identity": "",
   "platforms": [
     {"identifier": "rimaevenstar", "type": "twitch"},
     {"identifier": "RimaEvenstar", "type": "twitter"},
     {"identifier": "rimaevenstar", "type": "youtube"}
   ]},
   "RinPenrose": {
-  "nickname": "Rin", "former_agency": "", "former_identity": "",
+  "nickname": "Rin", "former_identity": "",
   "platforms": [
     {"identifier": "rinpenrose", "type": "twitch"},
     {"identifier": "RinPenrose", "type": "twitter"},
     {"identifier": "rinpenrose", "type": "youtube"}
   ]},
   "Saiiren": {
-  "nickname": "Saii", "former_agency": "", "former_identity": "",
+  "nickname": "Saii", "former_identity": "",
   "platforms": [
     {"identifier": "saiiren", "type": "twitch"},
     {"identifier": "xsaiiren", "type": "twitter"},
     {"identifier": "saiiren", "type": "youtube"}
   ]},
   "Saincisco": {
-  "nickname": "Sain", "former_agency": "", "former_identity": "",
+  "nickname": "Sain", "former_identity": "",
   "platforms": [
     {"identifier": "sainciso", "type": "twitch"},
     {"identifier": "saincisco", "type": "twitter"},
     {"identifier": "Saincisco", "type": "youtube"}
   ]},
   "Sansin": {
-  "nickname": "San", "former_agency": "", "former_identity": "",
+  "nickname": "San", "former_identity": "",
   "platforms": [
     {"identifier": "sansin", "type": "twitch"},
     {"identifier": "sansinvt", "type": "twitter"},
     {"identifier": "sansinvt", "type": "youtube"}
   ]},
   "Saruei": {
-  "nickname": "Saru", "former_agency": "", "former_identity": "",
+  "nickname": "Saru", "former_identity": "",
   "platforms": [
     {"identifier": "saruei", "type": "twitch"},
     {"identifier": "saruei", "type": "twitter"},
     {"identifier": "Saruei", "type": "youtube"}
   ]},
   "Shxtou": {
-  "nickname": "Shou", "former_agency": "", "former_identity": "",
+  "nickname": "Shou", "former_identity": "",
   "platforms": [
     {"identifier": "shxtou", "type": "twitch"},
     {"identifier": "shxtou", "type": "twitter"},
     {"identifier": "ShotoYT", "type": "youtube"}
   ]},
   "Shylily": {
-  "nickname": "Lily", "former_agency": "", "former_identity": "",
+  "nickname": "Lily", "former_identity": "",
   "platforms": [
     {"identifier": "shylily", "type": "twitch"},
     {"identifier": "shylilytwitch", "type": "twitter"},
     {"identifier": "Shylily", "type": "youtube"}
   ]},
   "Sigrid & Bird": {
-  "nickname": "SigridAndBird", "former_agency": "", "former_identity": "",
+  "nickname": "Sigrid And Bird", "former_identity": "",
   "platforms": [
     {"identifier": "sigridandbird", "type": "twitch"},
     {"identifier": "SigridAndBird", "type": "twitter"},
     {"identifier": "SigridAndBird", "type": "youtube"}
   ]},
   "Sinder": {
-  "nickname": "Sinder", "former_agency": "", "former_identity": "",
+  "nickname": "Sinder", "former_identity": "",
   "platforms": [
     {"identifier": "sinder", "type": "twitch"},
     {"identifier": "SinderVTuber", "type": "twitter"},
     {"identifier": "SinderVTuber", "type": "youtube"}
   ]},
   "SmugAlana": {
-  "nickname": "SmugAlana", "former_agency": "", "former_identity": "",
+  "nickname": "SmugAlana", "former_identity": "",
   "platforms": [
     {"identifier": "smugalana", "type": "twitch"},
     {"identifier": "SmugAlana", "type": "twitter"},
     {"identifier": "SmugAlana", "type": "youtube"}
   ]},
   "Snuffy": {
-  "nickname": "Snuffy", "former_agency": "", "former_identity": "",
+  "nickname": "Snuffy", "former_identity": "",
   "platforms": [
     {"identifier": "snuffy", "type": "twitch"},
     {"identifier": "snuffyowo", "type": "twitter"},
     {"identifier": "Snuffyowo", "type": "youtube"}
   ]},
   "Spite": {
-  "nickname": "Spite", "former_agency": "", "former_identity": "",
+  "nickname": "Spite", "former_identity": "",
   "platforms": [
     {"identifier": "spite", "type": "twitch"},
     {"identifier": "SpiteVtuber", "type": "twitter"},
     {"identifier": "SpiteVtuber", "type": "youtube"}
   ]},
   "SquChan": {
-  "nickname": "Squ", "former_agency": "", "former_identity": "",
+  "nickname": "Squ", "former_identity": "",
   "platforms": [
     {"identifier": "squchan", "type": "twitch"},
     {"identifier": "SquChanVT", "type": "twitter"},
     {"identifier": "SquChan", "type": "youtube"}
   ]},
   "Sunnysplosion": {
-  "nickname": "Sunny", "former_agency": "", "former_identity": "",
+  "nickname": "Sunny", "former_identity": "",
   "platforms": [
     {"identifier": "sunnysplosion", "type": "twitch"},
     {"identifier": "SunnySplosion", "type": "twitter"},
     {"identifier": "SunnySplosion", "type": "youtube"}
   ]},
   "Sushidog": {
-  "nickname": "Sushi", "former_agency": "", "former_identity": "",
+  "nickname": "Sushi", "former_identity": "",
   "platforms": [
     {"identifier": "sushidog", "type": "twitch"},
     {"identifier": "osushichan6", "type": "twitter"},
     {"identifier": "sushidog_art", "type": "youtube"}
   ]},
   "SynicalBunni": {
-  "nickname": "Synnie", "former_agency": "", "former_identity": "",
+  "nickname": "Synnie", "former_identity": "",
   "platforms": [
     {"identifier": "synicalbunni", "type": "twitch"},
     {"identifier": "synicalbeanical", "type": "twitter"},
     {"identifier": "SynicalBeanical", "type": "youtube"}
   ]},
   "Tabithash": {
-  "nickname": "Tabi", "former_agency": "", "former_identity": "",
+  "nickname": "Tabi", "former_identity": "",
   "platforms": [
     {"identifier": "tabithash", "type": "twitch"},
     {"identifier": "TabithashTW", "type": "twitter"},
     {"identifier": "TabithashYT", "type": "youtube"}
   ]},
   "Toma": {
-  "nickname": "Toma", "former_agency": "", "former_identity": "",
+  "nickname": "Toma", "former_identity": "",
   "platforms": [
     {"identifier": "toma", "type": "twitch"},
     {"identifier": "sliceoftoma", "type": "twitter"},
     {"identifier": "sliceoftoma", "type": "youtube"}
   ]},
   "TomoeUmari": {
-  "nickname": "Tomoe", "former_agency": "", "former_identity": "",
+  "nickname": "Tomoe", "former_identity": "",
   "platforms": [
     {"identifier": "tomoeumari", "type": "twitch"},
     {"identifier": "UmariTomoe", "type": "twitter"},
     {"identifier": "tomoeumari", "type": "youtube"}
   ]},
   "Trickywi": {
-  "nickname": "Tricky", "former_agency": "", "former_identity": "",
+  "nickname": "Tricky", "former_identity": "",
   "platforms": [
     {"identifier": "trickywi", "type": "twitch"},
     {"identifier": "Trickywii", "type": "twitter"},
     {"identifier": "trickywivtuber", "type": "youtube"}
   ]},
   "Uwoslab": {
-  "nickname": "Uwoslab", "former_agency": "", "former_identity": "",
+  "nickname": "Uwoslab", "former_identity": "",
   "platforms": [
     {"identifier": "uwoslab", "type": "twitch"},
     {"identifier": "uwutoowo1", "type": "twitter"},
     {"identifier": "UwosLab", "type": "youtube"}
   ]},
-  "Vampykinz": {
-  "nickname": "Vampy", "former_agency": "", "former_identity": "",
+  "VampykinzVT": {
+  "nickname": "Vampy", "former_identity": "",
   "platforms": [
     {"identifier": "vampykinz", "type": "twitch"},
     {"identifier": "VampykinzVT", "type": "twitter"},
     {"identifier": "vampykinz", "type": "youtube"}
   ]},
   "Vedal987": {
-  "nickname": "Vedal", "former_agency": "", "former_identity": "",
+  "nickname": "Vedal", "former_identity": "",
   "platforms": [
     {"identifier": "vedal987", "type": "twitch"},
     {"identifier": "Vedal987", "type": "twitter"},
     {"identifier": "Neurosama", "type": "youtube"}
   ]},
   "Vexoria The SunEater": {
-  "nickname": "Vex", "former_agency": "", "former_identity": "",
+  "nickname": "Vex", "former_identity": "",
   "platforms": [
     {"identifier": "vexoria_the_suneater", "type": "twitch"},
     {"identifier": "VexTheSunEater", "type": "twitter"},
     {"identifier": "VexoriaTheSunEater", "type": "youtube"}
   ]},
   "Vienna": {
-  "nickname": "Vie", "former_agency": "", "former_identity": "",
+  "nickname": "Vie", "former_identity": "",
   "platforms": [
     {"identifier": "vienna", "type": "twitch"},
     {"identifier": "viennavtuber", "type": "twitter"},
     {"identifier": "viennavtuber", "type": "youtube"}
   ]},
   "Vulpixie": {
-  "nickname": "Pixie", "former_agency": "", "former_identity": "",
+  "nickname": "Pixie", "former_identity": "",
   "platforms": [
     {"identifier": "vulpixie", "type": "twitch"},
     {"identifier": "VULPlXIE", "type": "twitter"},
     {"identifier": "Vulpixie", "type": "youtube"}
   ]},
   "x3Dustco": {
-  "nickname": "Dust", "former_agency": "", "former_identity": "",
+  "nickname": "Dust", "former_identity": "",
   "platforms": [
     {"identifier": "x3dustco", "type": "twitch"},
-    {"identifier": "x3Dustco", "type": "twitter"}
+    {"identifier": "x3Dustco", "type": "twitter"},
+    {"identifier": "", "type": "youtube"}
   ]},
   "Yoclesh": {
-  "nickname": "Yocci", "former_agency": "", "former_identity": "",
+  "nickname": "Yocci", "former_identity": "",
   "platforms": [
     {"identifier": "yoclesh", "type": "twitch"},
     {"identifier": "yoclesh", "type": "twitter"},
     {"identifier": "Yoclesh", "type": "youtube"}
   ]},
   "YokaSiri": {
-  "nickname": "Siri", "former_agency": "", "former_identity": "",
+  "nickname": "Siri", "former_identity": "",
   "platforms": [
     {"identifier": "yokasiri", "type": "twitch"},
     {"identifier": "YokaSiri", "type": "twitter"},
     {"identifier": "YokaSiri", "type": "youtube"}
   ]},
   "Yuzu": {
-  "nickname": "Yuzu", "former_agency": "", "former_identity": "",
+  "nickname": "Yuzu", "former_identity": "",
   "platforms": [
     {"identifier": "yuzu", "type": "twitch"},
     {"identifier": "SanagiYuzu", "type": "twitter"},
     {"identifier": "YuzuVtuber", "type": "youtube"}
   ]},
   "ZombieCleo": {
-  "nickname": "Cleo", "former_agency": "", "former_identity": "",
+  "nickname": "Cleo", "former_identity": "",
   "platforms": [
     {"identifier": "zombiecleo", "type": "twitch"},
     {"identifier": "ZombieCleo", "type": "twitter"},
