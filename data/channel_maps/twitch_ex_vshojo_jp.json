@@ -7,7 +7,7 @@
     {"identifier": "AkatsukiDHotaru", "type": "youtube"}
   ]},
   "Henya the Genius": {
-  "nickname": "Henya", "former_agency": "VShojo",
+  "nickname": "Henya", "former_agency": "VShojo", "former_identity": "Pikamee",
   "platforms": [
     {"identifier": "henyathegenius", "type": "twitch"},
     {"identifier": "henyathegenius", "type": "twitter"},

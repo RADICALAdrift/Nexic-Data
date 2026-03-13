@@ -14,12 +14,12 @@ Creator data is organized into categorized JSON files located in:
 
 Examples include:
 
-- `twitch.json` *(Nexus Assault specific streamers)*
 - `twitch_beastiez.json`
 - `twitch_ex_vshojo_en.json`
 - `twitch_ex_vshojo_jp.json`
 - `twitch_fleshtuber.json` *(regular Twitch streamers — a joking term used in the VTuber community for non-VTuber creators)*
 - `twitch_indie.json`
+- `twitch_nexusandfriends.json` *(Nexus Assault specific streamers and community friends)*
 - `twitch_phase_connect.json`
 - `twitch_sva.json`
 - `twitch_vchiban.json`

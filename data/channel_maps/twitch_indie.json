@@ -279,6 +279,13 @@
     {"identifier": "elXoX34", "type": "twitter"},
     {"identifier": "el_XoXTV", "type": "youtube"}
   ]},
+  "Emi Kuruma": {
+  "nickname": "Emi", "former_identity": "",
+  "platforms": [
+    {"identifier": "emikurumach", "type": "twitch"},
+    {"identifier": "EmiKuruma", "type": "twitter"},
+    {"identifier": "emikuruma", "type": "youtube"}
+  ]},
   "FallenShadow": {
   "nickname": "Shondo", "former_identity": "",
   "platforms": [
@@ -328,6 +335,20 @@
     {"identifier": "Giwi_", "type": "twitter"},
     {"identifier": "GiwiVT", "type": "youtube"}
   ]},
+  "Girl DM": {
+  "nickname": "Luna", "former_identity": "",
+  "platforms": [
+    {"identifier": "girl_dm_", "type": "twitch"},
+    {"identifier": "Girl_Dm_", "type": "twitter"},
+    {"identifier": "girldm", "type": "youtube"}
+  ]},
+  "Goblinfia": {
+  "nickname": "Fia", "former_identity": "",
+  "platforms": [
+    {"identifier": "goblinfia", "type": "twitch"},
+    {"identifier": "Goblinfia", "type": "twitter"},
+    {"identifier": "GoblinFia", "type": "youtube"}
+  ]},
   "GX Aura": {
   "nickname": "Orchan", "former_identity": "",
   "platforms": [
@@ -342,6 +363,13 @@
     {"identifier": "HeavenlyyFather", "type": "twitter"},
     {"identifier": "HeavenlyyFather", "type": "youtube"}
   ]},
+  "HRChan": {
+  "nickname": "HRChan", "former_agency": "Socks Agency (STAFF)",
+  "platforms": [
+    {"identifier": "hrchan", "type": "twitch"},
+    {"identifier": "HRChanVT", "type": "twitter"},
+    {"identifier": "HRChanVT", "type": "youtube"}
+  ]},
   "Isaa (E-sa)": {
   "nickname": "Isaa", "former_identity": "",
   "platforms": [
@@ -355,6 +383,13 @@
     {"identifier": "juniperactias", "type": "twitch"},
     {"identifier": "Egocider", "type": "twitter"},
     {"identifier": "juniperactiasofficial", "type": "youtube"}
+  ]},
+  "Kinrawr": {
+  "nickname": "Kinrawr", "former_identity": "",
+  "platforms": [
+    {"identifier": "kinstera", "type": "twitch"},
+    {"identifier": "kinrawr", "type": "twitter"},
+    {"identifier": "kinstera", "type": "youtube"}
   ]},
   "KloeKroc": {
   "nickname": "Kloe", "former_identity": "",
@@ -390,6 +425,13 @@
     {"identifier": "limealicious", "type": "twitch"},
     {"identifier": "Limealicious", "type": "twitter"},
     {"identifier": "Limealicious", "type": "youtube"}
+  ]},
+  "LoftyVTuber": {
+  "nickname": "Lofty", "former_identity": "",
+  "platforms": [
+    {"identifier": "lofty_vtuber", "type": "twitch"},
+    {"identifier": "Lofty_Vtuber", "type": "twitter"},
+    {"identifier": "lofty_vtuber", "type": "youtube"}
   ]},
   "Lucia": {
   "nickname": "Lucie", "former_identity": "",
@@ -454,6 +496,13 @@
     {"identifier": "MinikoMew", "type": "twitter"},
     {"identifier": "MinikoMew", "type": "youtube"}
   ]},
+  "MonikaCinnyRoll": {
+  "nickname": "Monika", "former_identity": "",
+  "platforms": [
+    {"identifier": "monikacinnyroll", "type": "twitch"},
+    {"identifier": "MonikaCinnyRoll", "type": "twitter"},
+    {"identifier": "MonikaCinnyRoll", "type": "youtube"}
+  ]},
   "MooMooClover": {
   "nickname": "Clover", "former_identity": "",
   "platforms": [
@@ -467,6 +516,13 @@
     {"identifier": "mooni", "type": "twitch"},
     {"identifier": "MeowMoonified", "type": "twitter"},
     {"identifier": "MeowMoonified", "type": "youtube"}
+  ]},
+  "Moyasi": {
+  "nickname": "Moyasi", "former_identity": "",
+  "platforms": [
+    {"identifier": "moyasi", "type": "twitch"},
+    {"identifier": "M0YASI_", "type": "twitter"},
+    {"identifier": "moyasi", "type": "youtube"}
   ]},
   "MissLalaVT": {
   "nickname": "Lala", "former_identity": "",
@@ -516,6 +572,13 @@
     {"identifier": "nihmune", "type": "twitch"},
     {"identifier": "nihmune", "type": "twitter"},
     {"identifier": "AkumaNihmune", "type": "youtube"}
+  ]},
+  "NakiVT": {
+  "nickname": "Naki", "former_identity": "",
+  "platforms": [
+    {"identifier": "naki_vt", "type": "twitch"},
+    {"identifier": "NakiVT", "type": "twitter"},
+    {"identifier": "nakivt", "type": "youtube"}
   ]},
   "ObKatieKat": {
   "nickname": "Katie", "former_identity": "",
@@ -587,6 +650,13 @@
     {"identifier": "RadiaActive_VT", "type": "twitter"},
     {"identifier": "RADIAACTIVE", "type": "youtube"}
   ]},
+  "RadicalMari": {
+  "nickname": "Mari", "former_identity": "",
+  "platforms": [
+    {"identifier": "radicalmari", "type": "twitch"},
+    {"identifier": "", "type": "twitter"},
+    {"identifier": "radicalmari", "type": "youtube"}
+  ]},
   "Rainhoe": {
   "nickname": "Rain", "former_identity": "",
   "platforms": [
@@ -621,6 +691,20 @@
     {"identifier": "rinpenrose", "type": "twitch"},
     {"identifier": "RinPenrose", "type": "twitter"},
     {"identifier": "rinpenrose", "type": "youtube"}
+  ]},
+  "Rosiebellmoo": {
+  "nickname": "Rosie", "former_identity": "",
+  "platforms": [
+    {"identifier": "rosiebellmoo", "type": "twitch"},
+    {"identifier": "rosiebellmoo", "type": "twitter"},
+    {"identifier": "Rosiebellmoo", "type": "youtube"}
+  ]},
+  "RyeIsBread": {
+  "nickname": "Rye", "former_identity": "",
+  "platforms": [
+    {"identifier": "ryeisbread", "type": "twitch"},
+    {"identifier": "BreadIsRye", "type": "twitter"},
+    {"identifier": "Ryeisbread", "type": "youtube"}
   ]},
   "Saiiren": {
   "nickname": "Saii", "former_identity": "",
