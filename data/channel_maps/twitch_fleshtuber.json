@@ -1,4 +1,11 @@
 {
+  "Bricky": {
+  "nickname": "Bricky",
+  "platforms": [
+    {"identifier": "bricky", "type": "twitch"},
+    {"identifier": "Bricky", "type": "twitter"},
+    {"identifier": "Bricky", "type": "youtube"}
+  ]},
   "CDawg": {
   "nickname": "Connor",
   "platforms": [

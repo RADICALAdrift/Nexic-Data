@@ -419,6 +419,13 @@
     {"identifier": "LaynaLazar", "type": "twitter"},
     {"identifier": "LaynaLazar", "type": "youtube"}
   ]},
+  "Lidia Nekozawa": {
+  "nickname": "Lidia", "former_identity": "",
+  "platforms": [
+    {"identifier": "lidiavtuber", "type": "twitch"},
+    {"identifier": "LidiaVtuber", "type": "twitter"},
+    {"identifier": "LidiaVTuber", "type": "youtube"}
+  ]},
   "Limealicious": {
   "nickname": "Laimu", "former_identity": "",
   "platforms": [
