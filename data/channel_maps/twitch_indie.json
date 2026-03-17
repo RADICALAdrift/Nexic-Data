@@ -671,13 +671,6 @@
     {"identifier": "RainhoeVT", "type": "twitter"},
     {"identifier": "RainhoeVT", "type": "youtube"}
   ]},
-  "RegaliaRoseVT": {
-  "nickname": "Rose", "former_identity": "",
-  "platforms": [
-    {"identifier": "regaliarosevt", "type": "twitch"},
-    {"identifier": "regalia_rose", "type": "twitter"},
-    {"identifier": "Regaliarose_vt", "type": "youtube"}
-  ]},
   "Reycallsounds": {
   "nickname": "Reycall", "former_identity": "",
   "platforms": [

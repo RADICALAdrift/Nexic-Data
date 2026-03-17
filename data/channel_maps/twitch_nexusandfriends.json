@@ -18,5 +18,12 @@
   "nickname": "RADICAL",
   "platforms": [
     {"identifier": "radicaladrift", "type": "twitch"}
+  ]},
+  "RegaliaRoseVT": {
+  "nickname": "Rose",
+  "platforms": [
+    {"identifier": "regaliarosevt", "type": "twitch"},
+    {"identifier": "regalia_rose", "type": "twitter"},
+    {"identifier": "Regaliarose_vt", "type": "youtube"}
   ]}
 }
