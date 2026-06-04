@@ -237,6 +237,13 @@
     {"identifier": "dokibird", "type": "twitter"},
     {"identifier": "DokiBird", "type": "youtube"}
   ]},
+  "DokiDoMiki": {
+  "nickname": "Miki", "former_identity": "",
+  "platforms": [
+    {"identifier": "dokidomiki", "type": "twitch"},
+    {"identifier": "DokiDoMikiVT", "type": "twitter"},
+    {"identifier": "DokiDoMiki", "type": "youtube"}
+  ]},
   "Dooby3D": {
   "nickname": "Dooby", "former_identity": "",
   "platforms": [

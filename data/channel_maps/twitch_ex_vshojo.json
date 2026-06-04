@@ -131,12 +131,5 @@
     {"identifier": "pekeispeak", "type": "twitch"},
     {"identifier": "PekeIsPeak", "type": "twitter"},
     {"identifier": "PekeIsPeak", "type": "youtube"}
-  ]},
-  "Zentreya": {
-  "nickname": "Zen", "former_agency": "VShojo",
-  "platforms": [
-    {"identifier": "zentreya", "type": "twitch"},
-    {"identifier": "zentreya", "type": "twitter"},
-    {"identifier": "Zentreya", "type": "youtube"}
   ]}
 }

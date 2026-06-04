@@ -47,5 +47,12 @@
     {"identifier": "yomiquinnley", "type": "twitch"},
     {"identifier": "YomiQuinnley", "type": "twitter"},
     {"identifier": "yomiquinnley", "type": "youtube"}
+  ]},
+  "Zentreya": {
+  "nickname": "Zen", "former_agency": "VShojo",
+  "platforms": [
+    {"identifier": "zentreya", "type": "twitch"},
+    {"identifier": "zentreya", "type": "twitter"},
+    {"identifier": "Zentreya", "type": "youtube"}
   ]}
 }
