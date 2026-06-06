@@ -846,6 +846,13 @@
     {"identifier": "Trickywii", "type": "twitter"},
     {"identifier": "trickywivtuber", "type": "youtube"}
   ]},
+  "TwinTails": {
+  "nickname": "2winTails", "former_identity": "",
+  "platforms": [
+    {"identifier": "2wintails", "type": "twitch"},
+    {"identifier": "2wintails", "type": "twitter"},
+    {"identifier": "2wintails", "type": "youtube"}
+  ]},
   "Uwoslab": {
   "nickname": "Uwoslab", "former_identity": "",
   "platforms": [
