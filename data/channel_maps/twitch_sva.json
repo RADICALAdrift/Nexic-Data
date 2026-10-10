@@ -41,13 +41,6 @@
     {"identifier": "snoozychu", "type": "twitter"},
     {"identifier": "snoozychu", "type": "youtube"}
   ]},
-  "YomiQuinnley": {
-  "nickname": "Yomi",
-  "platforms": [
-    {"identifier": "yomiquinnley", "type": "twitch"},
-    {"identifier": "YomiQuinnley", "type": "twitter"},
-    {"identifier": "yomiquinnley", "type": "youtube"}
-  ]},
   "Zentreya": {
   "nickname": "Zen", "former_agency": "VShojo",
   "platforms": [
