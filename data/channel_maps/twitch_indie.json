@@ -916,6 +916,13 @@
     {"identifier": "YokaSiri", "type": "twitter"},
     {"identifier": "YokaSiri", "type": "youtube"}
   ]},
+  "YomiQuinnley": {
+  "nickname": "Yomi", "former_agency": "SVA",
+  "platforms": [
+    {"identifier": "yomiquinnley", "type": "twitch"},
+    {"identifier": "YomiQuinnley", "type": "twitter"},
+    {"identifier": "yomiquinnley", "type": "youtube"}
+  ]},
   "Yuzu": {
   "nickname": "Yuzu", "former_identity": "",
   "platforms": [
